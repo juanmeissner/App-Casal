@@ -4,7 +4,8 @@
   const installButton = document.querySelector("#install");
   let installPrompt = null;
   const installed = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
-  const ios = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const ios = /iPad|iPhone|iPod/.test(navigator.userAgent)
+    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
@@ -33,7 +34,7 @@
       return;
     }
     if (ios) {
-      window.alert("No Safari, toque em Compartilhar e depois em Adicionar à Tela de Início.");
+      window.alert("No Safari, toque em Compartilhar, escolha Adicionar à Tela de Início e, se aparecer, ative Abrir como App.");
     }
   });
 

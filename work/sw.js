@@ -17,7 +17,7 @@ const APP_FILES = [
 self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then((cache) => cache.addAll(APP_FILES.map((file) => new URL(file, self.registration.scope))))
+      .then((cache) => cache.addAll(APP_FILES.map((file) => new URL(file, self.registration.scope).href)))
       .then(() => self.skipWaiting())
   );
 });

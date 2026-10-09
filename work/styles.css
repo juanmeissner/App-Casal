@@ -11,6 +11,7 @@ body {
   background: radial-gradient(circle at 85% 7%, #ffe3df 0, transparent 32%), #fff8f4;
 }
 button { font: inherit; cursor: pointer; }
+button[hidden] { display: none; }
 button:focus-visible { outline: 3px solid #a1375a; outline-offset: 4px; }
 .app {
   min-height: 100svh;
@@ -97,6 +98,17 @@ h2 { margin: 0; font-size: clamp(25px, 7vw, 38px); line-height: 1.14; letter-spa
 .draw-button:disabled { opacity: .58; cursor: default; transform: none; box-shadow: none; }
 .draw-button span { display: grid; place-items: center; width: 48px; height: 48px; border-radius: 15px; background: #ffffff2b; font-size: 24px; }
 .action p { margin: 13px 0 0; color: #8e7480; font-size: 13px; }
+.install-button {
+  min-height: 44px;
+  margin-top: 15px;
+  padding: 9px 17px;
+  border: 1px solid #e94970;
+  border-radius: 999px;
+  background: #fff8f4;
+  color: #bb3458;
+  font-size: 13px;
+  font-weight: 700;
+}
 .progress { margin-top: auto; padding: 0 3px; color: #806b74; font-size: 13px; }
 .progress-label { display: flex; justify-content: space-between; gap: 12px; margin-bottom: 9px; }
 .progress-label strong { color: #dc456b; }
