@@ -6304,5 +6304,1925 @@ window.CASAL_QUESTIONS = [
     "Categoria": "Universo Geek, Super-heróis e Quadrinhos",
     "Pergunta": "Se eu fosse um super-herói original, criado do zero, como seriam meu visual, meus poderes e equipamentos? Que atitudes me tornariam diferente dos outros heróis?",
     "Dificuldade": "Média"
+  },
+  {
+    "Número": 1052,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Ao chegar a uma cidade desconhecida, qual lugar eu procuraria primeiro?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1053,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Numa viagem de última hora, qual item eu não esqueceria de levar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1054,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Eu preferiria planejar cada parada ou descobrir o caminho enquanto viajamos?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1055,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que comida local eu experimentaria mesmo sem conhecer os ingredientes?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1056,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual imprevisto de viagem eu provavelmente levaria com bom humor?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1057,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se tivéssemos apenas uma manhã livre, que tipo de aventura eu escolheria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1058,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que lembrança eu guardaria de uma viagem: fotos, bilhetes ou um objeto do lugar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1059,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual atração turística famosa eu provavelmente dispensaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1060,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que habilidade eu gostaria de aprender com alguém do lugar que visitássemos?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1061,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se viajássemos dois dias sem internet, como eu tentaria me orientar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1062,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual transporte eu escolheria para conhecer uma cidade pela primeira vez?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1063,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Em qual tipo de hospedagem eu me sentiria mais à vontade?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1064,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que atividade eu reservaria com antecedência mesmo numa viagem espontânea?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1065,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se um mapa nos levasse a um bairro inesperado, eu exploraria ou voltaria ao plano?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1066,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual hábito meu denunciaria imediatamente que sou turista?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1067,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Em que momento da viagem eu pediria para diminuirmos o ritmo?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1068,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual lembrança eu compraria para alguém querido durante uma viagem?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1069,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que parte do planejamento eu gostaria de assumir antes de partirmos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1070,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se o orçamento apertasse, em qual experiência eu ainda faria questão de investir?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1071,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que lugar eu escolheria para assistir ao pôr do sol numa cidade nova?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1072,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual situação me faria puxar conversa com alguém que mora no lugar visitado?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1073,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que receio eu enfrentaria para viver uma aventura ao seu lado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1074,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se tivéssemos de trocar nosso destino na última hora, como eu reagiria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1075,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Eu fotografaria mais paisagens, comidas ou detalhes nossos?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1076,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que lembrança de infância influenciaria meu jeito de viajar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1077,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "O que eu faria se descobríssemos que reservamos hospedagens em cidades diferentes?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1078,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que tradição de outro lugar eu gostaria de trazer para nossa rotina?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1079,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que aventura eu toparia repetir mesmo tendo dado errado na primeira vez?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1080,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se você quisesse descansar e eu explorar, qual acordo eu proporia?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1081,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual limite meu eu avisaria antes de aceitarmos uma atividade radical?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1082,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se só pudéssemos levar uma mochila para os dois, o que eu priorizaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1083,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que experiência gratuita eu procuraria antes de comprar ingressos?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1084,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Em qual paisagem eu sentiria vontade de ficar em silêncio com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1085,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Como eu reconheceria que uma viagem foi importante para nossa relação?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1086,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que escolha minha numa viagem revelaria algo novo sobre mim?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1087,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que destino eu evitaria por parecer bonito nas fotos, mas pouco a minha cara?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1088,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se nos perdêssemos ao anoitecer, como eu tentaria manter a calma?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1089,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Qual sonho de viagem eu hesitaria em contar por achar difícil de realizar?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1090,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Que decisão de viagem eu confiaria totalmente a você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1091,
+    "Categoria": "Viagens e aventuras",
+    "Pergunta": "Se pudéssemos viajar para revisitar um momento da nossa história, qual eu escolheria?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1092,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que prato eu tentaria preparar para impressionar você sem seguir uma receita?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1093,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual tarefa eu assumiria com mais confiança se cozinhássemos juntos?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1094,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que ingrediente inesperado eu colocaria numa pizza criada por nós?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1095,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se nosso jantar desse errado, eu tentaria salvá-lo ou começaria outro prato?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1096,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que refeição eu escolheria para prepararmos num domingo chuvoso?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1097,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual cheiro vindo da cozinha me faria aparecer antes de ser chamado?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1098,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se inventássemos um prato com nossos nomes, qual seria sua característica principal?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1099,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que técnica culinária eu gostaria de aprender com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1100,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Numa disputa amigável de sobremesas, qual seria minha estratégia?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1101,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que comida eu prepararia para você num dia em que precisasse de conforto?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1102,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que utensílio eu compraria mesmo sem precisar dele de verdade?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1103,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual refeição da minha infância eu gostaria de recriar com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1104,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se faltasse o ingrediente principal, como eu improvisaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1105,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "O que eu faria primeiro ao receber amigos para jantar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1106,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que fruta ou tempero eu usaria para criar uma bebida só nossa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1107,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual etapa de uma receita me deixaria mais impaciente?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1108,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se você estivesse cozinhando, eu ajudaria ou ficaria conversando por perto?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1109,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que prato eu toparia provar sem saber seus ingredientes?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1110,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Como eu montaria uma mesa simples para tornar o jantar especial?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1111,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que receita de família eu pediria para alguém me ensinar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1112,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se tivéssemos apenas cinco ingredientes, que refeição eu tentaria montar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1113,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que sabor eu associaria a uma lembrança boa nossa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1114,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual alimento eu defenderia mesmo que você não gostasse?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1115,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que prato eu evitaria preparar para uma ocasião importante?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1116,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Como eu reagiria se você mudasse minha receita favorita?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1117,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que erro meu na cozinha acabaria virando piada entre nós?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1118,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se abríssemos um pequeno café, qual detalhe do cardápio seria ideia minha?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1119,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que refeição eu faria para comemorar uma vitória sua?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1120,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual comida eu aprenderia a fazer só para surpreender alguém querido?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1121,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que parte de cozinhar em dupla exigiria mais paciência de mim?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1122,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se trocássemos nossos pratos preferidos por uma semana, do que eu sentiria mais falta?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1123,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que jantar eu planejaria para uma noite de reconciliação?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1124,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual sabor eu escolheria para representar uma fase nova nossa?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1125,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que lembrança difícil ligada à comida eu gostaria de transformar em algo bom?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1126,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Quando eu pediria comida pronta em vez de insistir em cozinhar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1127,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que prato eu aceitaria repetir toda semana se virasse um ritual nosso?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1128,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Como eu dividiria as tarefas para ninguém terminar exausto depois do jantar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1129,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Que ingrediente seria proibido num desafio culinário inventado por mim?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1130,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Se você não gostasse de um prato feito por mim, como eu preferiria que dissesse?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1131,
+    "Categoria": "Cozinha a dois",
+    "Pergunta": "Qual gesto à mesa me faria sentir verdadeiramente acolhido?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1132,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual canto da casa eu escolheria para criar um refúgio só nosso?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1133,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que objeto eu levaria primeiro para fazer um lugar novo parecer lar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1134,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu organizaria um espaço que precisássemos dividir?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1135,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se pudéssemos mudar uma regra da casa por uma semana, qual eu proporia?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1136,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que pequeno ritual ao chegar em casa eu gostaria de compartilhar com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1137,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Onde eu esconderia um bilhete para você encontrar por acaso?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1138,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que som ou música eu escolheria para uma manhã tranquila em casa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1139,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se pudéssemos reformar apenas um cômodo, qual eu escolheria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1140,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu tentaria resolver uma diferença entre nossos gostos de decoração?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1141,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que tarefa doméstica eu transformaria numa competição divertida entre nós?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1142,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se tivéssemos horários diferentes, que hábito eu criaria para continuarmos próximos?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1143,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que tipo de iluminação eu escolheria para deixar nossa sala acolhedora?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1144,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Onde eu deixaria meus objetos ao entrar, mesmo prometendo organizar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1145,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual atividade eu reservaria para uma noite tranquila em casa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1146,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se recebêssemos visitas inesperadas, o que eu arrumaria primeiro?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1147,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que regra de silêncio ou privacidade eu consideraria essencial?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1148,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu preferiria decidir o que fica e o que vai embora ao organizar a casa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1149,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que cheiro eu gostaria que fosse a marca da nossa casa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1150,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual pequeno reparo eu tentaria fazer antes de pedir ajuda?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1151,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se tivéssemos um espaço muito pequeno, que móvel eu consideraria indispensável?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1152,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Onde eu montaria um cantinho para nossas lembranças?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1153,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que tarefa eu faria ouvindo música para passar mais rápido?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1154,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual hábito seu eu acabaria adotando na convivência?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1155,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual mania minha você perceberia só depois de morar comigo?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1156,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se nossas rotinas de sono fossem diferentes, como eu buscaria respeitar a sua?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1157,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu avisaria que preciso de um tempo quieto dentro de casa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1158,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual compromisso doméstico eu faria questão de cumprir sem ser lembrado?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1159,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se tivéssemos de escolher entre uma casa maior e um bairro melhor, o que eu priorizaria?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1160,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu reagiria se você mudasse a disposição dos móveis sem me contar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1161,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que espaço compartilhado eu gostaria de manter livre de telas?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1162,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual objeto eu nunca jogaria fora sem conversar com você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1163,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que acordo eu sugeriria para dividir momentos sozinho e momentos juntos em casa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1164,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se a casa estivesse um caos numa semana difícil, o que eu deixaria para depois?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1165,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que detalhe da casa me faria sentir visto por você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1166,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu imaginaria nossa casa num dia de celebração?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1167,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Qual concessão de convivência eu faria sem sentir que perco minha identidade?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1168,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Que assunto da casa eu acharia difícil conversar, mas necessário?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1169,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "O que me faria sentir que a casa é nossa, e não apenas um lugar onde moramos?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1170,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Como eu gostaria de receber críticas sobre meu jeito de cuidar da casa?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1171,
+    "Categoria": "Casa e convivência",
+    "Pergunta": "Se precisássemos mudar de casa por causa de um sonho seu, do que eu teria mais dificuldade de abrir mão?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1172,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual notificação eu desligaria primeiro para termos uma noite sem distrações?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1173,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que momento nosso eu guardaria numa cápsula do tempo digital?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1174,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se criássemos um aplicativo para casais, qual função eu pediria primeiro?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1175,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que emoji eu usaria para avisar que preciso de carinho sem escrever uma palavra?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1176,
+    "Categoria": "Vida digital",
+    "Pergunta": "Num encontro especial, eu preferiria tirar fotos ou deixar o celular guardado?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1177,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual hábito digital meu mais merece uma pausa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1178,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se perdêssemos as fotos de uma viagem, de qual momento eu ainda lembraria com clareza?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1179,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que mensagem sua eu salvaria para reler num dia difícil?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1180,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se passássemos um dia sem internet, o que eu faria primeiro com o tempo livre?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1181,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual tarefa cotidiana eu adoraria automatizar para termos mais tempo juntos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1182,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que aplicativo eu abriria por reflexo ao pegar o celular?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1183,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que foto eu escolheria como papel de parede para representar nossa fase atual?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1184,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se recebêssemos uma notícia importante online, eu contaria por mensagem ou esperaria ver você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1185,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual conversa virtual eu preferiria continuar pessoalmente?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1186,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que tipo de conteúdo eu enviaria a você para fazer rir num dia difícil?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1187,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se nossos algoritmos trocassem de lugar, o que você descobriria sobre mim?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1188,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que ferramenta digital eu gostaria de aprender a usar com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1189,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual dado pessoal eu só compartilharia depois de termos um acordo claro?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1190,
+    "Categoria": "Vida digital",
+    "Pergunta": "Quando uma foto nossa seria íntima demais para publicar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1191,
+    "Categoria": "Vida digital",
+    "Pergunta": "Como eu reagiria se você postasse uma foto minha de que não gostei?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1192,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual hábito de rolar a tela mais atrapalha minha atenção?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1193,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que conversa eu gostaria que nunca acontecesse por mensagem?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1194,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se criássemos uma playlist colaborativa, que música eu adicionaria primeiro?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1195,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual lembrança eu preferiria registrar em áudio em vez de vídeo?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1196,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual pequeno ritual digital nos ajudaria se estivéssemos longe?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1197,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se meu celular falhasse antes de um encontro, como eu improvisaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1198,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que comentário online eu acharia melhor ignorar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1199,
+    "Categoria": "Vida digital",
+    "Pergunta": "Quanto tempo sem resposta minha significaria apenas que estou ocupado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1200,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual tipo de foto eu sempre apago mesmo quando você gosta?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1201,
+    "Categoria": "Vida digital",
+    "Pergunta": "O que eu faria se recebesse por engano uma mensagem destinada a você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1202,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que função do celular eu manteria mesmo num fim de semana de desconexão?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1203,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual limite de privacidade eu gostaria de combinar antes de compartilhar senhas?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1204,
+    "Categoria": "Vida digital",
+    "Pergunta": "Como eu preferiria que você pedisse minha atenção quando eu estivesse distraído pelo celular?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1205,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que momento eu gostaria de viver sem pensar em registrar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1206,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se um vídeo nosso viralizasse por acidente, como eu reagiria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1207,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que coisa importante eu já quase deixei passar por ficar olhando uma tela?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1208,
+    "Categoria": "Vida digital",
+    "Pergunta": "Que informação sobre mim eu não gostaria que virasse postagem?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1209,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se só pudéssemos guardar dez fotos nossas, que tipo de momento eu priorizaria?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1210,
+    "Categoria": "Vida digital",
+    "Pergunta": "Qual hábito digital eu aceitaria mudar para proteger nossa intimidade?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1211,
+    "Categoria": "Vida digital",
+    "Pergunta": "Se uma mensagem sua me magoasse, eu preferiria conversar na hora ou pessoalmente depois?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1212,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que tradição anual só nossa eu gostaria de começar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1213,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual pequena conquista do cotidiano eu acharia digna de comemoração?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1214,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Numa surpresa de quinze minutos, que detalhe me faria sorrir?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1215,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que tipo de presente feito à mão eu guardaria por muitos anos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1216,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Como eu celebraria uma conquista sua sem gastar dinheiro?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1217,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que data não oficial eu inventaria para nós comemorarmos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1218,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "No meu aniversário, eu preferiria uma experiência surpresa ou um plano combinado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1219,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que ritual de fim de ano eu criaria para lembrarmos do que vivemos?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1220,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que clima eu buscaria numa música escolhida para celebrar um momento nosso?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1221,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que gesto transformaria uma terça-feira comum em ocasião especial para mim?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1222,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual decoração eu escolheria para uma comemoração pequena em casa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1223,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se esquecêssemos uma data importante, como eu gostaria que reparássemos?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1224,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que pessoa eu faria questão de convidar para celebrar uma conquista?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1225,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual festa popular eu gostaria de viver com você pela primeira vez?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1226,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que comida eu associaria a um dia de celebração nosso?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1227,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se tivéssemos de comemorar à distância, que surpresa eu prepararia?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1228,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que recordação eu guardaria de uma festa além das fotografias?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1229,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Eu preferiria um brinde íntimo ou uma reunião cheia de amigos?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1230,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual momento do dia eu escolheria para revelar uma surpresa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1231,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se pudéssemos criar um feriado pessoal, que acontecimento ele lembraria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1232,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual tradição da minha família eu gostaria de manter com você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1233,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que tradição antiga eu gostaria de reinventar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1234,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Como eu reagiria se uma comemoração planejada saísse completamente diferente?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1235,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual conquista sua eu lembraria de celebrar antes mesmo de você perceber?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1236,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que mensagem eu escreveria para lermos no próximo aniversário?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1237,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual detalhe de uma celebração eu notaria antes dos outros?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1238,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que lembrancinha eu faria para os convidados de uma festa nossa?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1239,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se pudéssemos repetir uma comemoração que já vivemos, qual eu escolheria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1240,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que música me faria levantar da cadeira numa festa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1241,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual ocasião eu preferiria celebrar apenas nós dois?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1242,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Como eu mostraria entusiasmo por uma data importante para você, mesmo que não fosse para mim?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1243,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se um presente não combinasse comigo, como eu preferiria reagir?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1244,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "O que me faria sentir incluído numa tradição importante para sua família?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1245,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual celebração eu acharia bonita, mas cansativa demais para organizar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1246,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que conquista minha eu costumo minimizar, mas gostaria que você reconhecesse?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1247,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Como eu gostaria de comemorar uma mudança difícil que conseguimos atravessar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1248,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Que promessa eu faria numa cerimônia simbólica só nossa?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1249,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Qual ausência numa comemoração eu sentiria mais?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1250,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Como eu gostaria que você me ajudasse se uma data feliz também trouxesse uma lembrança triste?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1251,
+    "Categoria": "Celebrações e tradições",
+    "Pergunta": "Se tivéssemos de escolher entre festa e viagem para marcar uma conquista, qual eu escolheria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1252,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se escrevêssemos uma história sobre nós, qual seria a primeira cena?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1253,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que projeto manual eu toparia começar com você mesmo sem ter habilidade?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1254,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se criássemos um símbolo secreto para nossa relação, o que ele representaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1255,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual problema cotidiano eu tentaria resolver com uma invenção maluca?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1256,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se montássemos uma exposição das nossas memórias, qual objeto eu colocaria na entrada?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1257,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Num desafio de desenho de cinco minutos, o que eu escolheria retratar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1258,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que vídeo curto eu aceitaria gravar com você apenas pela diversão?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1259,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se criássemos um jogo de tabuleiro, qual seria seu objetivo principal?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1260,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que atividade artística eu gostaria de experimentar com você pela primeira vez?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1261,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se trocássemos presentes feitos por nós, o que eu provavelmente criaria para você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1262,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual material eu pegaria primeiro numa mesa cheia de tintas, papel e argila?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1263,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que objeto sem valor aparente eu transformaria em decoração?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1264,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se fizéssemos um cartaz para anunciar nossa dupla, que frase eu sugeriria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1265,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que desafio fotográfico eu criaria para um passeio nosso?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1266,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Eu preferiria compor uma música, escrever um poema ou montar um álbum de recortes?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1267,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que cor eu escolheria para representar nosso jeito de criar juntos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1268,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se gravássemos um podcast de um episódio, sobre o que eu falaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1269,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que peça de roupa eu customizaria se não pudesse errar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1270,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual regra maluca eu inventaria para tornar um jogo conhecido mais engraçado?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1271,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se fizéssemos uma cápsula do tempo física, qual objeto meu eu colocaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1272,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual talento seu eu colocaria em destaque num projeto nosso?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1273,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que papel eu assumiria numa peça de teatro improvisada?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1274,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se desenhássemos um mapa dos nossos lugares especiais, por onde eu começaria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1275,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual parte do processo criativo eu mais gostaria: imaginar, fazer ou mostrar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1276,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Como eu reagiria se nossas ideias fossem completamente diferentes?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1277,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que apelido eu daria a uma criação nossa antes de ela ficar pronta?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1278,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se abríssemos uma oficina para amigos, o que eu gostaria de ensinar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1279,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual lembrança eu transformaria em uma pequena obra de arte?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1280,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que habilidade sua eu pediria emprestada para terminar um projeto?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1281,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se fizéssemos um curta sem falas, que emoção eu tentaria mostrar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1282,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual crítica me faria abandonar uma criação antes de terminá-la?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1283,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Quando eu preferiria guardar uma criação só para nós, sem publicar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1284,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se um projeto nosso fracassasse, o que eu ainda consideraria uma vitória?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1285,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual ideia eu deixaria de lado para apoiar uma ideia sua?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1286,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que parte da minha história eu expressaria melhor por arte do que por conversa?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1287,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Como eu reagiria se você reinterpretasse algo que criei?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1288,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Que invenção impossível eu gostaria que existisse para resolver um desafio nosso?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1289,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Se tivéssemos de criar uma homenagem um para o outro, que formato eu escolheria?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1290,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "Qual sonho criativo eu escondo por medo de não ser bom o suficiente?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1291,
+    "Categoria": "Criatividade em dupla",
+    "Pergunta": "O que eu gostaria que você descobrisse sobre mim ao ver algo que criei?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1292,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual cenário natural eu escolheria para uma conversa longa e sem pressa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1293,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Eu preferiria observar estrelas, caminhar à beira d’água ou fazer um piquenique?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1294,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que animal eu gostaria de observar em seu habitat natural?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1295,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se cuidássemos de uma planta juntos, que nome eu daria a ela?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1296,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual som da natureza mais me ajudaria a relaxar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1297,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que desafio ao ar livre eu toparia enfrentar em dupla?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1298,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "O que eu levaria para tornar uma tarde no parque mais a nossa cara?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1299,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se encontrássemos um animal perdido, qual seria minha primeira reação?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1300,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Em qual estação do ano eu teria mais vontade de explorar uma trilha?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1301,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que atitude simples eu adotaria para produzir menos lixo numa viagem?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1302,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se acordássemos cedo para ver o nascer do sol, o que eu levaria comigo?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1303,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que tipo de tempo me faria cancelar um passeio ao ar livre?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1304,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual paisagem eu gostaria de conhecer em outra estação do ano?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1305,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Como eu reagiria ao encontrar um inseto grande dentro de casa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1306,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que animal doméstico eu teria curiosidade de aprender a cuidar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1307,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Num jardim, eu preferiria plantar flores, temperos ou árvores frutíferas?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1308,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que lembrança da natureza na minha infância eu gostaria de reviver com você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1309,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual atividade na água eu experimentaria mesmo com um pouco de receio?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1310,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "O que eu faria se começasse a chover no meio do nosso passeio?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1311,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que lugar ao ar livre eu escolheria para ler ou conversar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1312,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual cheiro depois da chuva me traz uma lembrança boa?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1313,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Eu preferiria dormir numa barraca, numa cabana ou numa casa à beira-mar?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1314,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que cuidado eu acharia indispensável antes de adotarmos um animal?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1315,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Como eu demonstraria carinho a um animal tímido?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1316,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que problema ambiental perto de nós eu gostaria de ajudar a resolver?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1317,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se precisássemos escolher um passeio sem gastar nada, onde eu iria?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1318,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que pequena criatura da natureza eu observaria por mais tempo?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1319,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Em qual situação eu desistiria de uma trilha antes do final?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1320,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se eu pudesse acompanhar uma migração animal, qual escolheria?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1321,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que atividade ao ar livre eu evitaria por desconforto, não por falta de interesse?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1322,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Como eu reagiria se você quisesse adotar um animal antes de termos rotina para cuidar dele?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1323,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Qual compromisso diário eu aceitaria assumir para cuidar bem de um animal?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1324,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que paisagem eu escolheria para contar algo importante a você?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1325,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que sinal da natureza me lembraria de desacelerar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1326,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "De qual conforto eu abriria mão para visitar um lugar natural preservado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1327,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que experiência com um animal me ensinou algo sobre cuidado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1328,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que medo eu precisaria vencer para aproveitar uma aventura ao ar livre com você?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1329,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Se nosso animal adoecesse durante uma viagem, que prioridade eu colocaria acima do passeio?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1330,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "Que atitude minha com a natureza eu gostaria que uma criança aprendesse observando?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1331,
+    "Categoria": "Natureza e animais",
+    "Pergunta": "O que um lugar natural importante para mim revela sobre quem eu sou?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1332,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que sinal meu revela que preciso de uma pausa antes mesmo de eu dizer?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1333,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual gesto pequeno me ajuda a recuperar as energias depois de um dia difícil?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1334,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que compromisso eu teria mais dificuldade de cancelar para poder descansar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1335,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Quando estou sobrecarregado, prefiro companhia silenciosa ou um tempo sozinho?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1336,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que atividade tranquila eu experimentaria com você sem me cobrar ser bom nela?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1337,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual limite pessoal eu gostaria que você respeitasse sem precisar repetir?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1338,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Se tivéssemos meia hora livre depois de um dia cansativo, como eu gostaria de usá-la?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1339,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual pensamento costuma me impedir de descansar de verdade?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1340,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que mudança simples na rotina me ajudaria a dormir com a mente mais leve?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1341,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual hábito de cuidado comigo eu gostaria de construir ao seu lado?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1342,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que sinal do meu corpo eu costumo ignorar quando estou cansado?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1343,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual ambiente me ajuda a descansar sem precisar fazer nada?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1344,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que tipo de convite eu deveria recusar mais vezes por respeito ao meu tempo?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1345,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Quando estou preocupado, que assunto leve me ajuda a sair do ciclo de pensamentos?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1346,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "O que eu faria num domingo realmente livre de obrigações?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1347,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que atividade eu escolheria para sair de casa sem transformar tudo em tarefa?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1348,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual coisa pequena da rotina me traz sensação de equilíbrio?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1349,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Eu recupero energia melhor em silêncio, movimento ou conversa?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1350,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que tipo de ajuda eu aceito com mais facilidade?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1351,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Como eu gostaria que você oferecesse ajuda sem presumir que não dou conta?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1352,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que hábito de descanso eu aprendi com alguém da família?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1353,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual parte de fazer uma pausa me causa mais culpa?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1354,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que música, cheiro ou objeto eu buscaria para me sentir em paz?",
+    "Dificuldade": "Fácil"
+  },
+  {
+    "Número": 1355,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual convite seu me faria desacelerar sem parecer uma obrigação?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1356,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Se combinássemos uma noite sem compromissos, como eu gostaria de protegê-la?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1357,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual tarefa eu poderia delegar para ter mais tempo de cuidar de mim?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1358,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Como eu reagiria se você me incentivasse a descansar no meio de um projeto?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1359,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que elogio me ajuda a não medir meu valor só pelo que produzo?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1360,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que hábito saudável eu gostaria de tornar prazeroso, não obrigatório?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1361,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual atividade em dupla me ajuda a estar presente sem precisar conversar?",
+    "Dificuldade": "Média"
+  },
+  {
+    "Número": 1362,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Quando eu digo que está tudo bem sem estar, qual sinal me entrega?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1363,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Qual tipo de toque ou distância me conforta num dia difícil?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1364,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que limite eu teria coragem de estabelecer se soubesse que você me apoiaria?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1365,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Como eu gostaria de reagir a um erro sem me punir tanto?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1366,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que momento do dia eu reservaria só para mim, mesmo vivendo junto?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1367,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "O que você poderia fazer para me ajudar sem assumir a responsabilidade pelo meu bem-estar?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1368,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que expectativa dos outros mais pesa quando tento descansar?",
+    "Dificuldade": "Difícil"
+  },
+  {
+    "Número": 1369,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Se eu percebesse que estou sempre exausto, que mudança eu teria medo de fazer?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1370,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Que parte de mim eu gostaria de tratar com mais gentileza?",
+    "Dificuldade": "Extrema"
+  },
+  {
+    "Número": 1371,
+    "Categoria": "Bem-estar e autocuidado",
+    "Pergunta": "Como eu saberia que nossa relação também é um espaço de descanso?",
+    "Dificuldade": "Extrema"
   }
 ];

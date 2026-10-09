@@ -1,4 +1,4 @@
-const CACHE_NAME = "entre-nos-pwa-v1";
+const CACHE_NAME = "entre-nos-pwa-v2";
 const APP_FILES = [
   "./",
   "./index.html",

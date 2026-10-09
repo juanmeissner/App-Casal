@@ -1,6 +1,8 @@
 # Entre Nós
 
-Jogo de casal com 1.051 perguntas em 11 categorias: as 1.000 originais e 51 novas sobre universo geek, super-heróis e quadrinhos. Cada toque sorteia uma pergunta ainda não exibida. O progresso e a última pergunta ficam salvos no navegador.
+Jogo de casal com 1.371 perguntas em 19 categorias: as 1.000 originais, 51 sobre universo geek, super-heróis e quadrinhos e 320 distribuídas entre oito novos temas. Cada toque sorteia uma pergunta ainda não exibida. O progresso e a última pergunta ficam salvos no navegador.
+
+Os novos temas têm 40 perguntas cada: Viagens e aventuras; Cozinha a dois; Casa e convivência; Vida digital; Celebrações e tradições; Criatividade em dupla; Natureza e animais; Bem-estar e autocuidado.
 
 ## Abrir
 
@@ -22,7 +24,7 @@ Para instalar no celular a partir de outro computador, o app precisa estar em um
 
 ## Arquivos
 
-- `perguntas.json`: base com as 1.051 perguntas.
+- `perguntas.json`: base com as 1.371 perguntas.
 - `questions-data.js`: a mesma base carregada pelo navegador.
 - `app.js`: sorteio sem repetição, progresso, restauração e reinício.
 - `styles.css`: interface adaptada primeiro para celular.

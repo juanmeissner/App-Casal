@@ -5,11 +5,27 @@ const vm = require("node:vm");
 
 const root = path.resolve(__dirname, "..");
 const bank = JSON.parse(fs.readFileSync(path.join(root, "perguntas.json"), "utf8"));
-assert.equal(bank.length, 1051);
-assert.equal(new Set(bank.map((item) => item.Pergunta)).size, 1051);
-assert.equal(new Set(bank.map((item) => item.Categoria)).size, 11);
+const total = 1371;
+const newCategories = [
+  "Viagens e aventuras",
+  "Cozinha a dois",
+  "Casa e convivência",
+  "Vida digital",
+  "Celebrações e tradições",
+  "Criatividade em dupla",
+  "Natureza e animais",
+  "Bem-estar e autocuidado",
+];
+assert.equal(bank.length, total);
+assert.equal(new Set(bank.map((item) => item.Pergunta)).size, total);
+assert.equal(new Set(bank.map((item) => item.Pergunta.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim())).size, total);
+assert.equal(new Set(bank.map((item) => item.Categoria)).size, 19);
 assert.equal(bank.filter((item) => item.Categoria === "Universo Geek, Super-heróis e Quadrinhos").length, 51);
-assert.deepEqual(bank.map((item) => item["Número"]), Array.from({ length: 1051 }, (_, index) => index + 1));
+for (const category of newCategories) {
+  assert.equal(bank.filter((item) => item.Categoria === category).length, 40);
+}
+assert.deepEqual(new Set(bank.map((item) => item.Dificuldade)), new Set(["Fácil", "Média", "Difícil", "Extrema"]));
+assert.deepEqual(bank.map((item) => item["Número"]), Array.from({ length: total }, (_, index) => index + 1));
 
 const dataContext = { window: {} };
 vm.runInNewContext(fs.readFileSync(path.join(root, "questions-data.js"), "utf8"), dataContext);
@@ -52,15 +68,15 @@ assert.equal(progress.used.length, 500);
 assert.equal(new Set(progress.used).size, 500);
 
 ui = launch();
-assert.equal(ui.count.textContent, "500 / 1.051");
-assert.equal(ui.number.textContent, `PERGUNTA ${progress.current} DE 1.051`);
-for (let i = 0; i < 551; i += 1) ui.draw.click();
+assert.equal(ui.count.textContent, "500 / 1.371");
+assert.equal(ui.number.textContent, `PERGUNTA ${progress.current} DE 1.371`);
+for (let i = 0; i < total - 500; i += 1) ui.draw.click();
 progress = JSON.parse(saved.get("entre-nos-progress-v1"));
-assert.equal(progress.used.length, 1051);
-assert.equal(new Set(progress.used).size, 1051);
+assert.equal(progress.used.length, total);
+assert.equal(new Set(progress.used).size, total);
 assert.equal(ui.draw.disabled, true);
-assert.equal(ui.progressbar["aria-valuemax"], "1051");
-assert.equal(ui.progressbar["aria-valuenow"], "1051");
+assert.equal(ui.progressbar["aria-valuemax"], String(total));
+assert.equal(ui.progressbar["aria-valuenow"], String(total));
 
 ui.reset.click();
 progress = JSON.parse(saved.get("entre-nos-progress-v1"));
@@ -73,10 +89,22 @@ saved.set("entre-nos-progress-v1", JSON.stringify({
   current: 1000,
 }));
 ui = launch();
-assert.equal(ui.count.textContent, "1.000 / 1.051");
-assert.equal(ui.remaining.textContent, "51 perguntas disponíveis");
-for (let i = 0; i < 51; i += 1) ui.draw.click();
+assert.equal(ui.count.textContent, "1.000 / 1.371");
+assert.equal(ui.remaining.textContent, "371 perguntas disponíveis");
+for (let i = 0; i < 371; i += 1) ui.draw.click();
 progress = JSON.parse(saved.get("entre-nos-progress-v1"));
-assert.equal(progress.used.length, 1051);
-assert.deepEqual(progress.used.slice(1000).sort((a, b) => a - b), Array.from({ length: 51 }, (_, index) => index + 1001));
-console.log("OK: 1.051 perguntas únicas; sorteio sem repetição; progresso antigo preservado; retomada e reinício.");
+assert.equal(progress.used.length, total);
+assert.deepEqual(progress.used.slice(1000).sort((a, b) => a - b), Array.from({ length: 371 }, (_, index) => index + 1001));
+
+saved.set("entre-nos-progress-v1", JSON.stringify({
+  used: Array.from({ length: 1051 }, (_, index) => index + 1),
+  current: 1051,
+}));
+ui = launch();
+assert.equal(ui.count.textContent, "1.051 / 1.371");
+assert.equal(ui.remaining.textContent, "320 perguntas disponíveis");
+for (let i = 0; i < 320; i += 1) ui.draw.click();
+progress = JSON.parse(saved.get("entre-nos-progress-v1"));
+assert.equal(progress.used.length, total);
+assert.deepEqual(progress.used.slice(1051).sort((a, b) => a - b), Array.from({ length: 320 }, (_, index) => index + 1052));
+console.log("OK: 1.371 perguntas únicas em 19 categorias; sorteio sem repetição; progresso antigo preservado; retomada e reinício.");
