@@ -26,6 +26,10 @@ for (const category of newCategories) {
 }
 assert.deepEqual(new Set(bank.map((item) => item.Dificuldade)), new Set(["Fácil", "Média", "Difícil", "Extrema"]));
 assert.deepEqual(bank.map((item) => item["Número"]), Array.from({ length: total }, (_, index) => index + 1));
+assert.equal(bank.slice(590, 600).every((item) => item.Categoria === "Situações Hipotéticas" && !/jantar com qualquer pessoa/i.test(item.Pergunta)), true);
+assert.equal(bank.slice(650, 660).every((item) => item.Categoria === "Infância e Adolescência" && !/primeiro amor/i.test(item.Pergunta)), true);
+assert.equal(bank[1202].Categoria, "Vida digital");
+assert.doesNotMatch(bank[1202].Pergunta, /compartilhar senhas/i);
 
 const dataContext = { window: {} };
 vm.runInNewContext(fs.readFileSync(path.join(root, "questions-data.js"), "utf8"), dataContext);

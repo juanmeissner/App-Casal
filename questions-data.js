@@ -122,481 +122,481 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 21,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a situações inesperadas?",
+    "Pergunta": "Como costumo reagir quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 22,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a situações inesperadas?",
+    "Pergunta": "O que costuma passar pela minha cabeça quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 23,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a situações inesperadas?",
+    "Pergunta": "Qual atitude minha fica mais evidente quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 24,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a situações inesperadas?",
+    "Pergunta": "Que sentimento eu demonstro quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 25,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a situações inesperadas?",
+    "Pergunta": "De que tipo de apoio eu preciso quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 26,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a situações inesperadas?",
+    "Pergunta": "O que procuro evitar quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 27,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a situações inesperadas?",
+    "Pergunta": "Como tento agir com maturidade quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 28,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a situações inesperadas?",
+    "Pergunta": "O que mais me desestabiliza quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 29,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a situações inesperadas?",
+    "Pergunta": "Qual qualidade minha me ajuda quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 30,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a situações inesperadas?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim quando algo inesperado acontece?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 31,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a conflitos?",
+    "Pergunta": "Como costumo reagir durante um conflito?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 32,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a conflitos?",
+    "Pergunta": "O que costuma passar pela minha cabeça durante um conflito?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 33,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a conflitos?",
+    "Pergunta": "Qual atitude minha fica mais evidente durante um conflito?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 34,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a conflitos?",
+    "Pergunta": "Que sentimento eu demonstro durante um conflito?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 35,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a conflitos?",
+    "Pergunta": "De que tipo de apoio eu preciso durante um conflito?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 36,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a conflitos?",
+    "Pergunta": "O que procuro evitar durante um conflito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 37,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a conflitos?",
+    "Pergunta": "Como tento agir com maturidade durante um conflito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 38,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a conflitos?",
+    "Pergunta": "O que mais me desestabiliza durante um conflito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 39,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a conflitos?",
+    "Pergunta": "Qual qualidade minha me ajuda durante um conflito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 40,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a conflitos?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim durante um conflito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 41,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a mudanças de plano?",
+    "Pergunta": "Como costumo reagir quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 42,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a mudanças de plano?",
+    "Pergunta": "O que costuma passar pela minha cabeça quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 43,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a mudanças de plano?",
+    "Pergunta": "Qual atitude minha fica mais evidente quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 44,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a mudanças de plano?",
+    "Pergunta": "Que sentimento eu demonstro quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 45,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a mudanças de plano?",
+    "Pergunta": "De que tipo de apoio eu preciso quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 46,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a mudanças de plano?",
+    "Pergunta": "O que procuro evitar quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 47,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a mudanças de plano?",
+    "Pergunta": "Como tento agir com maturidade quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 48,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a mudanças de plano?",
+    "Pergunta": "O que mais me desestabiliza quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 49,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a mudanças de plano?",
+    "Pergunta": "Qual qualidade minha me ajuda quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 50,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a mudanças de plano?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim quando um plano muda?",
     "Dificuldade": "Média"
   },
   {
     "Número": 51,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a uma injustiça?",
+    "Pergunta": "Como costumo reagir diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 52,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a uma injustiça?",
+    "Pergunta": "O que costuma passar pela minha cabeça diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 53,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a uma injustiça?",
+    "Pergunta": "Qual atitude minha fica mais evidente diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 54,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a uma injustiça?",
+    "Pergunta": "Que sentimento eu demonstro diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 55,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a uma injustiça?",
+    "Pergunta": "De que tipo de apoio eu preciso diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 56,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a uma injustiça?",
+    "Pergunta": "O que procuro evitar diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 57,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a uma injustiça?",
+    "Pergunta": "Como tento agir com maturidade diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 58,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a uma injustiça?",
+    "Pergunta": "O que mais me desestabiliza diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 59,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a uma injustiça?",
+    "Pergunta": "Qual qualidade minha me ajuda diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 60,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a uma injustiça?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim diante de uma injustiça?",
     "Dificuldade": "Média"
   },
   {
     "Número": 61,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a uma crítica?",
+    "Pergunta": "Como costumo reagir ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 62,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a uma crítica?",
+    "Pergunta": "O que costuma passar pela minha cabeça ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 63,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a uma crítica?",
+    "Pergunta": "Qual atitude minha fica mais evidente ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 64,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a uma crítica?",
+    "Pergunta": "Que sentimento eu demonstro ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 65,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a uma crítica?",
+    "Pergunta": "De que tipo de apoio eu preciso ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 66,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a uma crítica?",
+    "Pergunta": "O que procuro evitar ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 67,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a uma crítica?",
+    "Pergunta": "Como tento agir com maturidade ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 68,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a uma crítica?",
+    "Pergunta": "O que mais me desestabiliza ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 69,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a uma crítica?",
+    "Pergunta": "Qual qualidade minha me ajuda ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 70,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a uma crítica?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim ao receber uma crítica?",
     "Dificuldade": "Média"
   },
   {
     "Número": 71,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a um elogio?",
+    "Pergunta": "Como costumo reagir ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 72,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a um elogio?",
+    "Pergunta": "O que costuma passar pela minha cabeça ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 73,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a um elogio?",
+    "Pergunta": "Qual atitude minha fica mais evidente ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 74,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a um elogio?",
+    "Pergunta": "Que sentimento eu demonstro ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 75,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a um elogio?",
+    "Pergunta": "De que tipo de apoio eu preciso ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 76,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a um elogio?",
+    "Pergunta": "O que procuro evitar ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 77,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a um elogio?",
+    "Pergunta": "Como tento agir com maturidade ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 78,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a um elogio?",
+    "Pergunta": "O que mais me desestabiliza ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 79,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a um elogio?",
+    "Pergunta": "Qual qualidade minha me ajuda ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 80,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a um elogio?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim ao receber um elogio?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 81,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a um erro meu?",
+    "Pergunta": "Como costumo reagir depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 82,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a um erro meu?",
+    "Pergunta": "O que costuma passar pela minha cabeça depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 83,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a um erro meu?",
+    "Pergunta": "Qual atitude minha fica mais evidente depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 84,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a um erro meu?",
+    "Pergunta": "Que sentimento eu demonstro depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 85,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a um erro meu?",
+    "Pergunta": "De que tipo de apoio eu preciso depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 86,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a um erro meu?",
+    "Pergunta": "O que procuro evitar depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 87,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a um erro meu?",
+    "Pergunta": "Como tento agir com maturidade depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 88,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a um erro meu?",
+    "Pergunta": "O que mais me desestabiliza depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 89,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a um erro meu?",
+    "Pergunta": "Qual qualidade minha me ajuda depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 90,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a um erro meu?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim depois de cometer um erro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 91,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu reajo a uma decepção?",
+    "Pergunta": "Como costumo reagir quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 92,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu costumo pensar a uma decepção?",
+    "Pergunta": "O que costuma passar pela minha cabeça quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 93,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que atitude minha aparece a uma decepção?",
+    "Pergunta": "Qual atitude minha fica mais evidente quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 94,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Qual emoção costuma dominar a uma decepção?",
+    "Pergunta": "Que sentimento eu demonstro quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 95,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu preciso receber a uma decepção?",
+    "Pergunta": "De que tipo de apoio eu preciso quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 96,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu evito fazer a uma decepção?",
+    "Pergunta": "O que procuro evitar quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 97,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Como eu demonstro maturidade a uma decepção?",
+    "Pergunta": "Como tento agir com maturidade quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 98,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que pode me tirar do eixo a uma decepção?",
+    "Pergunta": "O que mais me desestabiliza quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 99,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "Que qualidade minha ajuda a uma decepção?",
+    "Pergunta": "Qual qualidade minha me ajuda quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 100,
     "Categoria": "Personalidade e Comportamento",
-    "Pergunta": "O que eu gostaria que você entendesse sobre mim a uma decepção?",
+    "Pergunta": "O que gostaria que você entendesse sobre mim quando me decepciono?",
     "Dificuldade": "Extrema"
   },
   {
@@ -722,481 +722,481 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 121,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria para relaxar?",
+    "Pergunta": "Que atividade eu escolheria para relaxar depois de um dia cheio?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 122,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria para relaxar?",
+    "Pergunta": "Eu relaxo melhor em casa ou fora dela?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 123,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo para relaxar?",
+    "Pergunta": "Prefiro silêncio ou música quando quero descansar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 124,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro para relaxar?",
+    "Pergunta": "Que tipo de passeio tranquilo combina comigo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 125,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria para relaxar?",
+    "Pergunta": "Qual comida ou bebida eu escolheria num momento de descanso?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 126,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer para relaxar?",
+    "Pergunta": "Onde eu gostaria de passar uma tarde sem pressa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 127,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria para relaxar?",
+    "Pergunta": "Que música me ajuda a desacelerar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 128,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria para relaxar?",
+    "Pergunta": "Que atividade relaxante eu sugeriria para fazermos juntos?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 129,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria para relaxar?",
+    "Pergunta": "Qual pequeno conforto eu me daria para relaxar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 130,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade para relaxar?",
+    "Pergunta": "Do que eu abriria mão para ter um tempo de descanso?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 131,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria para comemorar?",
+    "Pergunta": "Como eu escolheria comemorar uma boa notícia?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 132,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria para comemorar?",
+    "Pergunta": "Prefiro uma comemoração surpresa ou planejada?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 133,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo para comemorar?",
+    "Pergunta": "Que detalhe faz uma comemoração ter a minha cara?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 134,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro para comemorar?",
+    "Pergunta": "Prefiro uma festa ou uma celebração reservada?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 135,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria para comemorar?",
+    "Pergunta": "Que comida eu escolheria para comemorar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 136,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer para comemorar?",
+    "Pergunta": "Em que lugar eu gostaria de celebrar uma conquista?",
     "Dificuldade": "Média"
   },
   {
     "Número": 137,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria para comemorar?",
+    "Pergunta": "Que música eu colocaria para começar a comemoração?",
     "Dificuldade": "Média"
   },
   {
     "Número": 138,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria para comemorar?",
+    "Pergunta": "Que atividade divertida eu proporia para celebrar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 139,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria para comemorar?",
+    "Pergunta": "Qual pequeno luxo eu incluiria numa comemoração?",
     "Dificuldade": "Média"
   },
   {
     "Número": 140,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade para comemorar?",
+    "Pergunta": "O que eu dispensaria numa festa sem sentir falta?",
     "Dificuldade": "Média"
   },
   {
     "Número": 141,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria em um dia chuvoso?",
+    "Pergunta": "O que eu escolheria fazer num dia chuvoso?",
     "Dificuldade": "Média"
   },
   {
     "Número": 142,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria em um dia chuvoso?",
+    "Pergunta": "Eu prefiro sair ou ficar em casa quando chove?",
     "Dificuldade": "Média"
   },
   {
     "Número": 143,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo em um dia chuvoso?",
+    "Pergunta": "Que programa combina comigo numa tarde de chuva?",
     "Dificuldade": "Média"
   },
   {
     "Número": 144,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro em um dia chuvoso?",
+    "Pergunta": "Prefiro ler, assistir a algo ou conversar num dia chuvoso?",
     "Dificuldade": "Média"
   },
   {
     "Número": 145,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria em um dia chuvoso?",
+    "Pergunta": "Que comida ou bebida eu escolheria enquanto chove?",
     "Dificuldade": "Média"
   },
   {
     "Número": 146,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer em um dia chuvoso?",
+    "Pergunta": "Onde eu gostaria de me abrigar para observar a chuva?",
     "Dificuldade": "Média"
   },
   {
     "Número": 147,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria em um dia chuvoso?",
+    "Pergunta": "Que música combina com meu humor num dia chuvoso?",
     "Dificuldade": "Média"
   },
   {
     "Número": 148,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria em um dia chuvoso?",
+    "Pergunta": "Que atividade eu sugeriria para fazermos juntos quando chove?",
     "Dificuldade": "Média"
   },
   {
     "Número": 149,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria em um dia chuvoso?",
+    "Pergunta": "Que conforto simples tornaria um dia chuvoso especial para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 150,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade em um dia chuvoso?",
+    "Pergunta": "Que programa eu evitaria num dia de chuva?",
     "Dificuldade": "Média"
   },
   {
     "Número": 151,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria em uma viagem?",
+    "Pergunta": "Que destino eu escolheria para nossa próxima viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 152,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria em uma viagem?",
+    "Pergunta": "Eu preferiria planejar cada dia da viagem ou improvisar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 153,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo em uma viagem?",
+    "Pergunta": "Qual tipo de viagem combina mais comigo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 154,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro em uma viagem?",
+    "Pergunta": "Prefiro explorar a cidade ou descansar durante as férias?",
     "Dificuldade": "Média"
   },
   {
     "Número": 155,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria em uma viagem?",
+    "Pergunta": "Que comida local eu teria vontade de provar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 156,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer em uma viagem?",
+    "Pergunta": "Que lugar eu faria questão de conhecer numa viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 157,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria em uma viagem?",
+    "Pergunta": "Que música eu colocaria na playlist da viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 158,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria em uma viagem?",
+    "Pergunta": "Que atividade eu sugeriria para fazermos no destino?",
     "Dificuldade": "Média"
   },
   {
     "Número": 159,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria em uma viagem?",
+    "Pergunta": "Em que conforto eu gastaria um pouco mais durante a viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 160,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade em uma viagem?",
+    "Pergunta": "De que passeio turístico eu abriria mão sem dificuldade?",
     "Dificuldade": "Média"
   },
   {
     "Número": 161,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria quando estou sozinho(a)?",
+    "Pergunta": "O que eu mais gosto de fazer quando tenho tempo só para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 162,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria quando estou sozinho(a)?",
+    "Pergunta": "Quando estou sozinho(a), prefiro descansar ou fazer algo novo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 163,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo quando estou sozinho(a)?",
+    "Pergunta": "Que programa eu escolheria para aproveitar minha própria companhia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 164,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro quando estou sozinho(a)?",
+    "Pergunta": "Qual passatempo eu praticaria sem depender de ninguém?",
     "Dificuldade": "Média"
   },
   {
     "Número": 165,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria quando estou sozinho(a)?",
+    "Pergunta": "Que comida eu prepararia só para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 166,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer quando estou sozinho(a)?",
+    "Pergunta": "Em que lugar eu gosto de passar um tempo sozinho(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 167,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria quando estou sozinho(a)?",
+    "Pergunta": "Que música eu costumo ouvir quando estou sozinho(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 168,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria quando estou sozinho(a)?",
+    "Pergunta": "Que atividade eu toparia fazer sem companhia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 169,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria quando estou sozinho(a)?",
+    "Pergunta": "Que pequeno agrado eu me daria num dia só meu?",
     "Dificuldade": "Média"
   },
   {
     "Número": 170,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade quando estou sozinho(a)?",
+    "Pergunta": "Que compromisso eu dispensaria para ter um tempo comigo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 171,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria para um encontro?",
+    "Pergunta": "Que tipo de encontro eu escolheria para nós dois?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 172,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria para um encontro?",
+    "Pergunta": "Eu preferiria um encontro surpresa ou planejado?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 173,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo para um encontro?",
+    "Pergunta": "Qual detalhe tornaria um encontro especial para mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 174,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro para um encontro?",
+    "Pergunta": "Prefiro um encontro tranquilo ou cheio de atividades?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 175,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria para um encontro?",
+    "Pergunta": "Que comida eu escolheria para um encontro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 176,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer para um encontro?",
+    "Pergunta": "Em que lugar eu gostaria de ter nosso próximo encontro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 177,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria para um encontro?",
+    "Pergunta": "Que música combina com um encontro do meu jeito?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 178,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria para um encontro?",
+    "Pergunta": "Que atividade eu sugeriria para fazermos num encontro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 179,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria para um encontro?",
+    "Pergunta": "Que pequeno cuidado eu apreciaria durante um encontro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 180,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade para um encontro?",
+    "Pergunta": "Que tipo de programa eu evitaria num primeiro encontro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 181,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria para ouvir no carro?",
+    "Pergunta": "Que música eu colocaria primeiro numa viagem de carro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 182,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria para ouvir no carro?",
+    "Pergunta": "Eu escolheria música, podcast ou silêncio no carro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 183,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo para ouvir no carro?",
+    "Pergunta": "Que artista eu gostaria de ouvir durante o trajeto?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 184,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro para ouvir no carro?",
+    "Pergunta": "Qual gênero musical combina com uma viagem de carro para mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 185,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria para ouvir no carro?",
+    "Pergunta": "Que podcast eu escolheria para uma estrada longa?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 186,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer para ouvir no carro?",
+    "Pergunta": "Eu preferiria cantar junto ou apenas escutar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 187,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria para ouvir no carro?",
+    "Pergunta": "Que canção me faz lembrar de uma viagem?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 188,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria para ouvir no carro?",
+    "Pergunta": "Que áudio divertido eu sugeriria para ouvirmos juntos?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 189,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria para ouvir no carro?",
+    "Pergunta": "Que música antiga eu não me importaria de repetir no carro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 190,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade para ouvir no carro?",
+    "Pergunta": "Que tipo de som eu pediria para trocar rapidamente?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 191,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual escolha eu faria para assistir no fim de semana?",
+    "Pergunta": "Que filme eu escolheria para assistir no fim de semana?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 192,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu provavelmente escolheria para assistir no fim de semana?",
+    "Pergunta": "Eu preferiria começar uma série ou ver um filme?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 193,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual opção combina mais comigo para assistir no fim de semana?",
+    "Pergunta": "Que gênero combina com meu humor num sábado à noite?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 194,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que tipo de programa eu prefiro para assistir no fim de semana?",
+    "Pergunta": "Prefiro uma comédia ou um suspense no fim de semana?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 195,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual sabor ou estilo eu buscaria para assistir no fim de semana?",
+    "Pergunta": "Que clássico eu gostaria de rever com você?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 196,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual lugar eu gostaria de conhecer para assistir no fim de semana?",
+    "Pergunta": "Em que lugar da casa eu gostaria de montar nossa sessão de cinema?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 197,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que música eu colocaria para assistir no fim de semana?",
+    "Pergunta": "Que trilha sonora de filme eu reconheceria de imediato?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 198,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Que atividade eu sugeriria para assistir no fim de semana?",
+    "Pergunta": "Que programa eu sugeriria depois de assistirmos a um filme?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 199,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "Qual pequeno luxo eu escolheria para assistir no fim de semana?",
+    "Pergunta": "Que lanche eu escolheria para acompanhar a sessão?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 200,
     "Categoria": "Gostos e Preferências",
-    "Pergunta": "O que eu dispensaria sem dificuldade para assistir no fim de semana?",
+    "Pergunta": "Que tipo de história eu dispensaria no meu dia de descanso?",
     "Dificuldade": "Extrema"
   },
   {
@@ -1262,541 +1262,541 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 211,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro quando acordo atrasado(a)?",
+    "Pergunta": "O que faço primeiro quando acordo atrasado(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 212,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais quando acordo atrasado(a)?",
+    "Pergunta": "Que hábito meu piora a correria da manhã?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 213,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar quando acordo atrasado(a)?",
+    "Pergunta": "Como decido o que é prioridade quando acordo atrasado(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 214,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois quando acordo atrasado(a)?",
+    "Pergunta": "O que deixo para depois quando tenho pouco tempo para sair?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 215,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto quando acordo atrasado(a)?",
+    "Pergunta": "Como meu humor muda quando começo o dia atrasado(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 216,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo quando acordo atrasado(a)?",
+    "Pergunta": "Eu acelero ou paro para me organizar quando estou atrasado(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 217,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render quando acordo atrasado(a)?",
+    "Pergunta": "O que me ajuda a ganhar tempo numa manhã corrida?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 218,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais quando acordo atrasado(a)?",
+    "Pergunta": "Qual distração mais me atrasa antes de sair?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 219,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto quando acordo atrasado(a)?",
+    "Pergunta": "Que item preciso encontrar antes de sair às pressas?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 220,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) quando acordo atrasado(a)?",
+    "Pergunta": "Como você poderia me ajudar numa manhã corrida?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 221,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro antes de dormir?",
+    "Pergunta": "O que costumo fazer antes de dormir?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 222,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais antes de dormir?",
+    "Pergunta": "Que hábito noturno eu gostaria de mudar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 223,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar antes de dormir?",
+    "Pergunta": "Como preparo meu quarto para dormir melhor?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 224,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois antes de dormir?",
+    "Pergunta": "Que tarefa eu costumo deixar para a manhã seguinte?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 225,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto antes de dormir?",
+    "Pergunta": "Meu humor muda quando estou com sono?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 226,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo antes de dormir?",
+    "Pergunta": "Prefiro desacelerar aos poucos ou deitar logo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 227,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render antes de dormir?",
+    "Pergunta": "O que me ajuda a pegar no sono?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 228,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais antes de dormir?",
+    "Pergunta": "Que distração costuma me manter acordado(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 229,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto antes de dormir?",
+    "Pergunta": "Que objeto gosto de ter por perto na hora de dormir?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 230,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) antes de dormir?",
+    "Pergunta": "Como você pode respeitar meu momento de descanso à noite?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 231,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro quando preciso me concentrar?",
+    "Pergunta": "O que faço primeiro quando preciso me concentrar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 232,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais quando preciso me concentrar?",
+    "Pergunta": "Qual hábito me ajuda a manter o foco?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 233,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar quando preciso me concentrar?",
+    "Pergunta": "Como organizo minhas tarefas antes de começar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 234,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois quando preciso me concentrar?",
+    "Pergunta": "O que deixo para depois quando tenho algo importante a fazer?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 235,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto quando preciso me concentrar?",
+    "Pergunta": "Como percebo que perdi a concentração?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 236,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo quando preciso me concentrar?",
+    "Pergunta": "Em que horário costumo me concentrar melhor?",
     "Dificuldade": "Média"
   },
   {
     "Número": 237,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render quando preciso me concentrar?",
+    "Pergunta": "O que me ajuda a avançar numa tarefa difícil?",
     "Dificuldade": "Média"
   },
   {
     "Número": 238,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais quando preciso me concentrar?",
+    "Pergunta": "Qual distração mais interrompe meu foco?",
     "Dificuldade": "Média"
   },
   {
     "Número": 239,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto quando preciso me concentrar?",
+    "Pergunta": "O que preciso ter por perto para trabalhar com atenção?",
     "Dificuldade": "Média"
   },
   {
     "Número": 240,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) quando preciso me concentrar?",
+    "Pergunta": "Como prefiro que você fale comigo quando estou concentrado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 241,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro em um dia livre?",
+    "Pergunta": "O que gosto de fazer primeiro num dia livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 242,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais em um dia livre?",
+    "Pergunta": "Que hábito mantenho mesmo quando não tenho compromissos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 243,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar em um dia livre?",
+    "Pergunta": "Costumo planejar um dia livre ou decidir na hora?",
     "Dificuldade": "Média"
   },
   {
     "Número": 244,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois em um dia livre?",
+    "Pergunta": "Que obrigação eu deixaria para outro dia para poder descansar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 245,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto em um dia livre?",
+    "Pergunta": "Como meu humor muda quando tenho o dia inteiro livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 246,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo em um dia livre?",
+    "Pergunta": "Prefiro começar um dia livre cedo ou dormir até mais tarde?",
     "Dificuldade": "Média"
   },
   {
     "Número": 247,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render em um dia livre?",
+    "Pergunta": "Que atividade me faz sentir que aproveitei o tempo livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 248,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais em um dia livre?",
+    "Pergunta": "Em que acabo gastando tempo sem perceber num dia livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 249,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto em um dia livre?",
+    "Pergunta": "O que não pode faltar num dia de folga ideal para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 250,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) em um dia livre?",
+    "Pergunta": "Como gostaria de dividir um dia livre entre tempo a dois e tempo sozinho(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 251,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro quando estou cansado(a)?",
+    "Pergunta": "O que faço primeiro quando percebo que estou cansado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 252,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais quando estou cansado(a)?",
+    "Pergunta": "Que hábito meu piora o cansaço?",
     "Dificuldade": "Média"
   },
   {
     "Número": 253,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar quando estou cansado(a)?",
+    "Pergunta": "Como reorganizo minhas tarefas quando falta energia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 254,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois quando estou cansado(a)?",
+    "Pergunta": "O que deixo para outro momento quando estou exausto(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 255,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto quando estou cansado(a)?",
+    "Pergunta": "Como meu jeito de conversar muda quando estou cansado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 256,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo quando estou cansado(a)?",
+    "Pergunta": "Prefiro fazer tudo mais devagar ou parar para descansar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 257,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render quando estou cansado(a)?",
+    "Pergunta": "O que costuma me devolver um pouco de energia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 258,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais quando estou cansado(a)?",
+    "Pergunta": "Que distração uso quando preciso de uma pausa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 259,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto quando estou cansado(a)?",
+    "Pergunta": "Que conforto procuro quando estou cansado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 260,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) quando estou cansado(a)?",
+    "Pergunta": "Como gosto de receber ajuda quando estou sem energia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 261,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro ao chegar em casa?",
+    "Pergunta": "O que faço primeiro ao chegar em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 262,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais ao chegar em casa?",
+    "Pergunta": "Que hábito meu aparece assim que entro pela porta?",
     "Dificuldade": "Média"
   },
   {
     "Número": 263,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar ao chegar em casa?",
+    "Pergunta": "Como organizo minhas coisas ao chegar em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 264,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois ao chegar em casa?",
+    "Pergunta": "Que tarefa prefiro adiar logo depois de chegar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 265,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto ao chegar em casa?",
+    "Pergunta": "Como meu humor costuma mudar quando chego em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 266,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo ao chegar em casa?",
+    "Pergunta": "Preciso de um tempo para desacelerar ou já quero conversar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 267,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render ao chegar em casa?",
+    "Pergunta": "O que me ajuda a relaxar depois de um dia fora?",
     "Dificuldade": "Média"
   },
   {
     "Número": 268,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais ao chegar em casa?",
+    "Pergunta": "O que costuma me distrair assim que chego?",
     "Dificuldade": "Média"
   },
   {
     "Número": 269,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto ao chegar em casa?",
+    "Pergunta": "Que coisa gosto de encontrar pronta ao voltar para casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 270,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) ao chegar em casa?",
+    "Pergunta": "Como você poderia me acolher quando chego cansado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 271,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro quando recebo uma mensagem importante?",
+    "Pergunta": "O que faço primeiro ao receber uma mensagem importante?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 272,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais quando recebo uma mensagem importante?",
+    "Pergunta": "Costumo responder na hora ou pensar antes de escrever?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 273,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar quando recebo uma mensagem importante?",
+    "Pergunta": "Como decido se devo responder por texto ou por ligação?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 274,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois quando recebo uma mensagem importante?",
+    "Pergunta": "O que verifico antes de enviar uma resposta importante?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 275,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto quando recebo uma mensagem importante?",
+    "Pergunta": "Como meu humor muda depois de receber uma notícia inesperada?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 276,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo quando recebo uma mensagem importante?",
+    "Pergunta": "Quanto tempo costumo levar para responder a um assunto sério?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 277,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render quando recebo uma mensagem importante?",
+    "Pergunta": "O que me ajuda a escrever com clareza quando estou nervoso(a)?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 278,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais quando recebo uma mensagem importante?",
+    "Pergunta": "Que distração me faz esquecer de responder uma mensagem?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 279,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto quando recebo uma mensagem importante?",
+    "Pergunta": "Que informação preciso ter antes de dar uma resposta?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 280,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) quando recebo uma mensagem importante?",
+    "Pergunta": "Como você pode me ajudar a entender uma mensagem difícil?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 281,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro antes de sair?",
+    "Pergunta": "O que faço primeiro quando estou me preparando para sair?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 282,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais antes de sair?",
+    "Pergunta": "Que hábito meu costuma me atrasar antes de sair?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 283,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar antes de sair?",
+    "Pergunta": "Como decido o que levar comigo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 284,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois antes de sair?",
+    "Pergunta": "Que tarefa deixo para a volta quando preciso sair?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 285,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto antes de sair?",
+    "Pergunta": "Como fico quando faltam poucos minutos para sair?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 286,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo antes de sair?",
+    "Pergunta": "Quanto tempo gosto de reservar para me arrumar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 287,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render antes de sair?",
+    "Pergunta": "O que me ajuda a sair de casa sem correria?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 288,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais antes de sair?",
+    "Pergunta": "Que distração me faz perder a hora antes de sair?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 289,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto antes de sair?",
+    "Pergunta": "Que item sempre confiro antes de fechar a porta?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 290,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) antes de sair?",
+    "Pergunta": "Como você pode me ajudar a sair no horário?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 291,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu faço primeiro quando a casa está bagunçada?",
+    "Pergunta": "O que arrumo primeiro quando a casa está bagunçada?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 292,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual hábito meu aparece mais quando a casa está bagunçada?",
+    "Pergunta": "Que hábito meu mais contribui para a bagunça?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 293,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu costumo me organizar quando a casa está bagunçada?",
+    "Pergunta": "Como decido por onde começar a organizar a casa?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 294,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu deixo para depois quando a casa está bagunçada?",
+    "Pergunta": "O que deixo para limpar em outro momento?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 295,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu me comporto quando a casa está bagunçada?",
+    "Pergunta": "Como me sinto quando encontro a casa desorganizada?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 296,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual é meu ritmo quando a casa está bagunçada?",
+    "Pergunta": "Prefiro arrumar tudo de uma vez ou aos poucos?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 297,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que me ajuda a render quando a casa está bagunçada?",
+    "Pergunta": "O que me motiva a começar a organizar?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 298,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Qual distração me pega mais quando a casa está bagunçada?",
+    "Pergunta": "Que distração costuma interromper minha arrumação?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 299,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "O que eu preciso ter por perto quando a casa está bagunçada?",
+    "Pergunta": "Que material ou objeto preciso ter por perto para arrumar a casa?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 300,
     "Categoria": "Rotina e Hábitos",
-    "Pergunta": "Como eu gosto de ser ajudado(a) quando a casa está bagunçada?",
+    "Pergunta": "Como gostaria de dividir a arrumação com você?",
     "Dificuldade": "Extrema"
   },
   {
@@ -1844,7 +1844,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 308,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria quando quero me sentir amado(a)?",
+    "Pergunta": "De qual lembrança nossa eu gosto de recordar quando quero me sentir amado(a)?",
     "Dificuldade": "Fácil"
   },
   {
@@ -1904,7 +1904,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 318,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria depois de uma discussão?",
+    "Pergunta": "Que lembrança nossa me ajudaria a retomar a conversa depois de uma discussão?",
     "Dificuldade": "Fácil"
   },
   {
@@ -2084,7 +2084,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 348,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria quando estou com ciúme?",
+    "Pergunta": "Que lembrança nossa me ajudaria a confiar mais em você quando sinto ciúme?",
     "Dificuldade": "Média"
   },
   {
@@ -2144,7 +2144,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 358,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria ao planejar um encontro?",
+    "Pergunta": "Que encontro nosso eu lembraria ao planejar o próximo?",
     "Dificuldade": "Média"
   },
   {
@@ -2204,7 +2204,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 368,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria quando preciso de espaço?",
+    "Pergunta": "Que lembrança nossa me faz bem quando preciso de um tempo só para mim?",
     "Dificuldade": "Média"
   },
   {
@@ -2264,7 +2264,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 378,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria ao receber uma surpresa?",
+    "Pergunta": "Que surpresa que já vivemos eu gostaria de recordar?",
     "Dificuldade": "Difícil"
   },
   {
@@ -2324,7 +2324,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 388,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria quando imagino nosso futuro?",
+    "Pergunta": "Que lembrança nossa eu gostaria de levar para o futuro?",
     "Dificuldade": "Difícil"
   },
   {
@@ -2384,7 +2384,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 398,
     "Categoria": "Relacionamento",
-    "Pergunta": "Qual memória nossa eu lembraria quando quero resolver um mal-entendido?",
+    "Pergunta": "Que lembrança nossa me ajudaria a resolver um mal-entendido?",
     "Dificuldade": "Extrema"
   },
   {
@@ -2522,61 +2522,61 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 421,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar para nossa vida a dois?",
+    "Pergunta": "Que sonho eu gostaria de realizar com você?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 422,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade para nossa vida a dois?",
+    "Pergunta": "Qual objetivo da nossa vida a dois é mais importante para mim agora?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 423,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar para nossa vida a dois?",
+    "Pergunta": "O que eu gostaria que conquistássemos juntos?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 424,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir para nossa vida a dois?",
+    "Pergunta": "Que mudança eu gostaria de construir na nossa relação?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 425,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar para nossa vida a dois?",
+    "Pergunta": "Qual experiência a dois eu não gostaria de adiar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 426,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) para nossa vida a dois?",
+    "Pergunta": "O que me faria sentir realizado(a) na nossa vida a dois?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 427,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver para nossa vida a dois?",
+    "Pergunta": "Que hábito eu gostaria que cultivássemos como casal?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 428,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer para nossa vida a dois?",
+    "Pergunta": "Que receio eu preciso superar para planejar nosso futuro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 429,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo para nossa vida a dois?",
+    "Pergunta": "Que decisão nos aproximaria de um objetivo em comum?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 430,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar para nossa vida a dois?",
+    "Pergunta": "Como você poderia me apoiar num sonho que é nosso?",
     "Dificuldade": "Fácil"
   },
   {
@@ -2642,1561 +2642,1561 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 441,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar na minha saúde?",
+    "Pergunta": "Que objetivo de saúde eu gostaria de alcançar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 442,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade na minha saúde?",
+    "Pergunta": "Qual cuidado com a saúde é prioridade para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 443,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar na minha saúde?",
+    "Pergunta": "Que mudança no meu bem-estar eu gostaria de perceber?",
     "Dificuldade": "Média"
   },
   {
     "Número": 444,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir na minha saúde?",
+    "Pergunta": "Que hábito de saúde eu quero construir aos poucos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 445,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar na minha saúde?",
+    "Pergunta": "Que atividade física eu gostaria de experimentar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 446,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) na minha saúde?",
+    "Pergunta": "O que me faria sentir melhor no meu corpo e na minha rotina?",
     "Dificuldade": "Média"
   },
   {
     "Número": 447,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver na minha saúde?",
+    "Pergunta": "Que hábito eu gostaria de melhorar para ter mais disposição?",
     "Dificuldade": "Média"
   },
   {
     "Número": 448,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer na minha saúde?",
+    "Pergunta": "Que receio dificulta meu cuidado com a saúde?",
     "Dificuldade": "Média"
   },
   {
     "Número": 449,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo na minha saúde?",
+    "Pergunta": "Qual passo pequeno eu poderia dar para cuidar melhor de mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 450,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar na minha saúde?",
+    "Pergunta": "Como você poderia apoiar minha rotina de autocuidado?",
     "Dificuldade": "Média"
   },
   {
     "Número": 451,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar na minha vida financeira?",
+    "Pergunta": "Que sonho financeiro eu gostaria de realizar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 452,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade na minha vida financeira?",
+    "Pergunta": "Qual é minha prioridade financeira hoje?",
     "Dificuldade": "Média"
   },
   {
     "Número": 453,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar na minha vida financeira?",
+    "Pergunta": "O que eu gostaria de conseguir guardar ou comprar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 454,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir na minha vida financeira?",
+    "Pergunta": "Que mudança faria minhas finanças ficarem mais tranquilas?",
     "Dificuldade": "Média"
   },
   {
     "Número": 455,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar na minha vida financeira?",
+    "Pergunta": "Que experiência eu gostaria de planejar financeiramente?",
     "Dificuldade": "Média"
   },
   {
     "Número": 456,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) na minha vida financeira?",
+    "Pergunta": "O que me faria sentir mais seguro(a) em relação ao dinheiro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 457,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver na minha vida financeira?",
+    "Pergunta": "Que hábito financeiro eu gostaria de desenvolver?",
     "Dificuldade": "Média"
   },
   {
     "Número": 458,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer na minha vida financeira?",
+    "Pergunta": "Que medo dificulta minhas decisões sobre dinheiro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 459,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo na minha vida financeira?",
+    "Pergunta": "Que decisão me aproximaria de um objetivo financeiro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 460,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar na minha vida financeira?",
+    "Pergunta": "Como você poderia apoiar uma meta financeira minha?",
     "Dificuldade": "Média"
   },
   {
     "Número": 461,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar em uma viagem dos sonhos?",
+    "Pergunta": "Qual viagem eu mais sonho fazer?",
     "Dificuldade": "Média"
   },
   {
     "Número": 462,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade em uma viagem dos sonhos?",
+    "Pergunta": "O que seria prioridade para mim ao planejar a viagem dos sonhos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 463,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar em uma viagem dos sonhos?",
+    "Pergunta": "Que lugar eu gostaria de conhecer nessa viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 464,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir em uma viagem dos sonhos?",
+    "Pergunta": "O que eu gostaria que fosse diferente da minha rotina durante a viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 465,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar em uma viagem dos sonhos?",
+    "Pergunta": "Que experiência eu não dispensaria no destino?",
     "Dificuldade": "Média"
   },
   {
     "Número": 466,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) em uma viagem dos sonhos?",
+    "Pergunta": "O que me faria voltar dessa viagem sentindo que valeu a pena?",
     "Dificuldade": "Média"
   },
   {
     "Número": 467,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver em uma viagem dos sonhos?",
+    "Pergunta": "Que hábito de viagem eu gostaria de experimentar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 468,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer em uma viagem dos sonhos?",
+    "Pergunta": "Que medo eu precisaria superar para fazer essa viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 469,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo em uma viagem dos sonhos?",
+    "Pergunta": "Qual decisão nos aproximaria de realizar essa viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 470,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar em uma viagem dos sonhos?",
+    "Pergunta": "Como você poderia participar do planejamento da viagem dos sonhos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 471,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar em um projeto pessoal?",
+    "Pergunta": "Que projeto pessoal eu sonho tirar do papel?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 472,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade em um projeto pessoal?",
+    "Pergunta": "Qual seria o primeiro passo desse projeto?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 473,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar em um projeto pessoal?",
+    "Pergunta": "O que eu gostaria de alcançar com ele?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 474,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir em um projeto pessoal?",
+    "Pergunta": "Que mudança esse projeto traria para minha vida?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 475,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar em um projeto pessoal?",
+    "Pergunta": "Que parte do projeto eu não gostaria de adiar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 476,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) em um projeto pessoal?",
+    "Pergunta": "O que me faria sentir orgulhoso(a) ao concluí-lo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 477,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver em um projeto pessoal?",
+    "Pergunta": "Que hábito me ajudaria a manter o projeto em andamento?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 478,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer em um projeto pessoal?",
+    "Pergunta": "Que medo me impede de começar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 479,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo em um projeto pessoal?",
+    "Pergunta": "Que decisão concreta me aproximaria de terminar o projeto?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 480,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar em um projeto pessoal?",
+    "Pergunta": "Como você poderia me incentivar sem assumir o projeto por mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 481,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar para aprender algo novo?",
+    "Pergunta": "O que eu gostaria de aprender neste momento da vida?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 482,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade para aprender algo novo?",
+    "Pergunta": "Qual assunto novo mais desperta minha curiosidade?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 483,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar para aprender algo novo?",
+    "Pergunta": "Que habilidade eu gostaria de desenvolver?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 484,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir para aprender algo novo?",
+    "Pergunta": "O que eu precisaria mudar na rotina para estudar algo novo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 485,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar para aprender algo novo?",
+    "Pergunta": "Que experiência prática me ajudaria a aprender?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 486,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) para aprender algo novo?",
+    "Pergunta": "Como eu saberia que avancei no aprendizado?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 487,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver para aprender algo novo?",
+    "Pergunta": "Que hábito de estudo eu gostaria de criar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 488,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer para aprender algo novo?",
+    "Pergunta": "Que medo me impede de tentar algo em que ainda não sou bom(boa)?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 489,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo para aprender algo novo?",
+    "Pergunta": "Qual primeiro passo eu daria para começar a aprender?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 490,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar para aprender algo novo?",
+    "Pergunta": "Como você poderia tornar esse aprendizado mais divertido para mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 491,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual sonho eu quero realizar para deixar como legado?",
+    "Pergunta": "Pelo que eu gostaria de ser lembrado(a)?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 492,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que meta eu considero prioridade para deixar como legado?",
+    "Pergunta": "Que valor eu gostaria de transmitir a outras pessoas?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 493,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que eu gostaria de conquistar para deixar como legado?",
+    "Pergunta": "Que contribuição eu gostaria de deixar no mundo?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 494,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que mudança eu quero construir para deixar como legado?",
+    "Pergunta": "Que mudança positiva eu gostaria de ajudar a construir?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 495,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual experiência eu não quero adiar para deixar como legado?",
+    "Pergunta": "Que experiência eu gostaria de compartilhar com quem vem depois de mim?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 496,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "O que me faria sentir realizado(a) para deixar como legado?",
+    "Pergunta": "O que me faria sentir que deixei algo valioso?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 497,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que hábito quero desenvolver para deixar como legado?",
+    "Pergunta": "Que hábito meu eu gostaria que inspirasse alguém?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 498,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Qual medo preciso vencer para deixar como legado?",
+    "Pergunta": "Que medo me faz adiar algo importante para meu legado?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 499,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Que decisão pode me aproximar do meu objetivo para deixar como legado?",
+    "Pergunta": "Que decisão de hoje combina com o legado que desejo deixar?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 500,
     "Categoria": "Sonhos e Objetivos",
-    "Pergunta": "Como você poderia me apoiar para deixar como legado?",
+    "Pergunta": "Como você poderia me ajudar a viver de acordo com esse propósito?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 501,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se ganhasse uma viagem surpresa?",
+    "Pergunta": "Se eu ganhasse uma viagem surpresa, para onde gostaria de ir?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 502,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se ganhasse uma viagem surpresa?",
+    "Pergunta": "Que tipo de destino eu escolheria se pudesse trocar essa viagem?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 503,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se ganhasse uma viagem surpresa?",
+    "Pergunta": "O que eu conferiria antes de aceitar uma viagem surpresa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 504,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se ganhasse uma viagem surpresa?",
+    "Pergunta": "Quem eu gostaria que me acompanhasse nessa viagem?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 505,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se ganhasse uma viagem surpresa?",
+    "Pergunta": "Que detalhe tornaria a viagem especial para mim?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 506,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se ganhasse uma viagem surpresa?",
+    "Pergunta": "O que poderia me deixar apreensivo(a) com uma viagem surpresa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 507,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se ganhasse uma viagem surpresa?",
+    "Pergunta": "Como eu aproveitaria um destino que não escolhi?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 508,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se ganhasse uma viagem surpresa?",
+    "Pergunta": "Eu contaria a novidade logo ou guardaria a surpresa por um tempo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 509,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se ganhasse uma viagem surpresa?",
+    "Pergunta": "Que compromisso eu não cancelaria nem por uma viagem surpresa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 510,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se ganhasse uma viagem surpresa?",
+    "Pergunta": "Que parte da minha personalidade apareceria no primeiro dia da viagem?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 511,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se pudesse morar em qualquer lugar?",
+    "Pergunta": "Se pudesse morar em qualquer lugar, que cidade eu escolheria?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 512,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se pudesse morar em qualquer lugar?",
+    "Pergunta": "Eu preferiria viver perto da natureza ou no centro de uma cidade?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 513,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se pudesse morar em qualquer lugar?",
+    "Pergunta": "O que eu levaria em conta antes de mudar de país?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 514,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se pudesse morar em qualquer lugar?",
+    "Pergunta": "De quem eu sentiria mais saudade depois de me mudar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 515,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se pudesse morar em qualquer lugar?",
+    "Pergunta": "O que não poderia faltar na minha nova casa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 516,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se pudesse morar em qualquer lugar?",
+    "Pergunta": "O que mais me preocuparia ao morar longe de onde vivo hoje?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 517,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se pudesse morar em qualquer lugar?",
+    "Pergunta": "Que experiência eu buscaria logo depois da mudança?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 518,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se pudesse morar em qualquer lugar?",
+    "Pergunta": "Eu mudaria de vez ou testaria a cidade antes?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 519,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se pudesse morar em qualquer lugar?",
+    "Pergunta": "De que conforto eu não abriria mão ao escolher onde morar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 520,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se pudesse morar em qualquer lugar?",
+    "Pergunta": "Que escolha de moradia mostraria melhor minhas prioridades?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 521,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Qual seria a primeira coisa que eu faria ao receber muito dinheiro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 522,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Eu preferiria guardar, investir ou gastar uma parte logo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 523,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Que preocupação eu teria antes de tomar decisões com esse dinheiro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 524,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Quem eu gostaria de ajudar financeiramente?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 525,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Que sonho eu realizaria com parte do valor?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 526,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "O que eu teria medo de perder depois de receber tanto dinheiro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 527,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Como eu celebraria essa notícia?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 528,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Que decisão financeira eu adiaria até conversar com um especialista?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 529,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "Que tipo de gasto eu evitaria mesmo tendo dinheiro disponível?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 530,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se recebesse uma grande quantia de dinheiro?",
+    "Pergunta": "O que meu uso desse dinheiro revelaria sobre meus valores?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 531,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se tivesse um ano sabático?",
+    "Pergunta": "Como eu passaria o primeiro mês de um ano sabático?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 532,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se tivesse um ano sabático?",
+    "Pergunta": "Eu usaria o ano sabático para viajar, estudar ou descansar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 533,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se tivesse um ano sabático?",
+    "Pergunta": "O que eu planejaria antes de começar esse período?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 534,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se tivesse um ano sabático?",
+    "Pergunta": "Com quem eu gostaria de compartilhar parte dessa experiência?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 535,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se tivesse um ano sabático?",
+    "Pergunta": "Que atividade eu faria questão de experimentar nesse ano?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 536,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se tivesse um ano sabático?",
+    "Pergunta": "O que me preocuparia ao pausar a rotina por tanto tempo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 537,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se tivesse um ano sabático?",
+    "Pergunta": "Como eu aproveitaria os dias sem horários fixos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 538,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se tivesse um ano sabático?",
+    "Pergunta": "Que projeto eu começaria se tivesse um ano livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 539,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se tivesse um ano sabático?",
+    "Pergunta": "De que compromisso eu ainda não gostaria de abrir mão?",
     "Dificuldade": "Média"
   },
   {
     "Número": 540,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se tivesse um ano sabático?",
+    "Pergunta": "O que um ano sabático mostraria sobre minhas prioridades?",
     "Dificuldade": "Média"
   },
   {
     "Número": 541,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se precisasse mudar de carreira?",
+    "Pergunta": "Para que área eu iria se precisasse mudar de carreira?",
     "Dificuldade": "Média"
   },
   {
     "Número": 542,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se precisasse mudar de carreira?",
+    "Pergunta": "Que tipo de trabalho eu consideraria primeiro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 543,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se precisasse mudar de carreira?",
+    "Pergunta": "O que eu avaliaria antes de aceitar uma nova profissão?",
     "Dificuldade": "Média"
   },
   {
     "Número": 544,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se precisasse mudar de carreira?",
+    "Pergunta": "Com quem eu conversaria para entender melhor outra carreira?",
     "Dificuldade": "Média"
   },
   {
     "Número": 545,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se precisasse mudar de carreira?",
+    "Pergunta": "Que condição eu consideraria essencial no novo trabalho?",
     "Dificuldade": "Média"
   },
   {
     "Número": 546,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se precisasse mudar de carreira?",
+    "Pergunta": "Qual seria meu maior receio ao mudar de carreira?",
     "Dificuldade": "Média"
   },
   {
     "Número": 547,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se precisasse mudar de carreira?",
+    "Pergunta": "Que oportunidade eu procuraria nessa mudança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 548,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se precisasse mudar de carreira?",
+    "Pergunta": "Eu estudaria antes de sair do emprego atual?",
     "Dificuldade": "Média"
   },
   {
     "Número": 549,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se precisasse mudar de carreira?",
+    "Pergunta": "Que valor pessoal eu não abriria mão de levar para o novo trabalho?",
     "Dificuldade": "Média"
   },
   {
     "Número": 550,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se precisasse mudar de carreira?",
+    "Pergunta": "O que minha escolha de carreira revelaria sobre mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 551,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se ficasse sem internet por um mês?",
+    "Pergunta": "O que eu faria primeiro se ficasse sem internet por um mês?",
     "Dificuldade": "Média"
   },
   {
     "Número": 552,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se ficasse sem internet por um mês?",
+    "Pergunta": "Que atividade offline eu escolheria para ocupar meu tempo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 553,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se ficasse sem internet por um mês?",
+    "Pergunta": "Que parte da minha rotina eu precisaria reorganizar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 554,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se ficasse sem internet por um mês?",
+    "Pergunta": "Quem eu faria questão de encontrar pessoalmente nesse período?",
     "Dificuldade": "Média"
   },
   {
     "Número": 555,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se ficasse sem internet por um mês?",
+    "Pergunta": "Que recurso eu precisaria preparar para trabalhar sem internet?",
     "Dificuldade": "Média"
   },
   {
     "Número": 556,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se ficasse sem internet por um mês?",
+    "Pergunta": "Do que eu sentiria mais falta ao ficar desconectado(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 557,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se ficasse sem internet por um mês?",
+    "Pergunta": "Como eu aproveitaria melhor o tempo sem telas?",
     "Dificuldade": "Média"
   },
   {
     "Número": 558,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se ficasse sem internet por um mês?",
+    "Pergunta": "Que novo hábito eu tentaria criar nesse mês?",
     "Dificuldade": "Média"
   },
   {
     "Número": 559,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se ficasse sem internet por um mês?",
+    "Pergunta": "Que atividade digital eu descobriria que posso dispensar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 560,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se ficasse sem internet por um mês?",
+    "Pergunta": "O que minha reação a um mês offline mostraria sobre meus hábitos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 561,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Como eu gostaria de começar um dia inteiro sem obrigações?",
     "Dificuldade": "Média"
   },
   {
     "Número": 562,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Eu preferiria descansar em casa ou sair sem rumo nesse dia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 563,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "O que eu levaria em conta para escolher nosso programa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 564,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Eu convidaria alguém ou guardaria o dia só para nós?",
     "Dificuldade": "Média"
   },
   {
     "Número": 565,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Que momento eu consideraria indispensável nesse dia?",
     "Dificuldade": "Média"
   },
   {
     "Número": 566,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "O que poderia atrapalhar meu descanso num dia livre?",
     "Dificuldade": "Média"
   },
   {
     "Número": 567,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Como eu aproveitaria uma tarde inteira sem planos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 568,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Que passeio eu escolheria se pudéssemos decidir na hora?",
     "Dificuldade": "Média"
   },
   {
     "Número": 569,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "Que tarefa eu me permitiria deixar para depois?",
     "Dificuldade": "Média"
   },
   {
     "Número": 570,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se tivéssemos um dia inteiro sem obrigações?",
+    "Pergunta": "O que meu jeito de aproveitar um dia livre diria sobre mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 571,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se pudéssemos reviver uma data?",
+    "Pergunta": "Se pudéssemos reviver uma data nossa, qual eu escolheria?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 572,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se pudéssemos reviver uma data?",
+    "Pergunta": "Que momento dessa data eu iria querer viver de novo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 573,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se pudéssemos reviver uma data?",
+    "Pergunta": "O que eu levaria comigo para aproveitar melhor esse dia?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 574,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se pudéssemos reviver uma data?",
+    "Pergunta": "Eu preferiria reviver a data só com você ou com todos que estavam lá?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 575,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se pudéssemos reviver uma data?",
+    "Pergunta": "Que detalhe dessa lembrança eu faria questão de manter igual?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 576,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se pudéssemos reviver uma data?",
+    "Pergunta": "O que me deixaria receoso(a) ao reviver uma lembrança?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 577,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se pudéssemos reviver uma data?",
+    "Pergunta": "Como eu registraria a data se pudesse vivê-la outra vez?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 578,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se pudéssemos reviver uma data?",
+    "Pergunta": "Eu mudaria alguma decisão tomada naquele dia?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 579,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se pudéssemos reviver uma data?",
+    "Pergunta": "Que parte da lembrança eu não gostaria de alterar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 580,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se pudéssemos reviver uma data?",
+    "Pergunta": "O que a escolha dessa data revelaria sobre o que valorizo em nós?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 581,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Se tivesse de escolher entre conforto e aventura, qual eu escolheria?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 582,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Que tipo de aventura me faria sair da zona de conforto?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 583,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "O que eu precisaria saber antes de trocar conforto por aventura?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 584,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Eu preferiria viver essa aventura sozinho(a) ou com você?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 585,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Que conforto eu gostaria de preservar mesmo numa aventura?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 586,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Qual seria meu maior receio diante de uma experiência desconhecida?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 587,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Como eu tentaria aproveitar uma viagem fora da minha rotina?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 588,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "O que me faria escolher a opção mais segura?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 589,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "Que risco eu não aceitaria correr por diversão?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 590,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se precisasse escolher entre conforto e aventura?",
+    "Pergunta": "O que essa escolha revelaria sobre meu jeito de viver?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 591,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu faria se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se tivéssemos um dia livre numa cidade desconhecida, por onde eu começaria?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 592,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria minha primeira escolha se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se pudéssemos aprender uma habilidade juntos em um fim de semana, qual eu escolheria?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 593,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu levaria em conta se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se uma viagem nossa precisasse ser improvisada, qual detalhe eu tentaria planejar mesmo assim?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 594,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Quem eu chamaria se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se daqui a vinte anos encontrássemos uma caixa com fotos nossas, qual momento eu esperaria rever?",
+    "Dificuldade": "Difícil"
   },
   {
     "Número": 595,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que detalhe seria indispensável se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se pudéssemos montar um espaço de lazer só nosso, o que eu colocaria nele?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 596,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Qual seria meu maior receio se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se uma chuva inesperada mudasse nossos planos, que programa eu sugeriria?",
+    "Dificuldade": "Fácil"
   },
   {
     "Número": 597,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como eu tentaria aproveitar a situação se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se tivéssemos de criar uma tradição só nossa, como eu gostaria de começá-la?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 598,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Que decisão eu tomaria se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se pudéssemos passar uma semana sem pressa, como eu dividiria nosso tempo?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 599,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "O que eu não aceitaria se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se ganhássemos ingressos para qualquer evento, qual tipo de experiência eu escolheria?",
+    "Dificuldade": "Fácil"
   },
   {
     "Número": 600,
     "Categoria": "Situações Hipotéticas",
-    "Pergunta": "Como essa situação mostraria minha personalidade se pudesse jantar com qualquer pessoa?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Se pudéssemos escrever uma carta para abrir juntos daqui a dez anos, que desejo eu colocaria nela?",
+    "Dificuldade": "Difícil"
   },
   {
     "Número": 601,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era na escola?",
+    "Pergunta": "Como eu era na escola: quieto(a), falante ou curioso(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 602,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo na escola?",
+    "Pergunta": "De qual momento na escola eu me lembro com carinho?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 603,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer na escola?",
+    "Pergunta": "De qual matéria eu mais gostava na escola?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 604,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido na escola?",
+    "Pergunta": "Eu tinha algum apelido na escola? Qual?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 605,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou na escola?",
+    "Pergunta": "Que acontecimento escolar me marcou?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 606,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser na escola?",
+    "Pergunta": "Que profissão eu imaginava seguir quando estudava?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 607,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim na escola?",
+    "Pergunta": "Quem mais me apoiava nos meus estudos?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 608,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta na escola?",
+    "Pergunta": "Que regra da escola eu achava injusta?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 609,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios na escola?",
+    "Pergunta": "Como eu lidava com uma matéria difícil?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 610,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época na escola?",
+    "Pergunta": "Que música ou moda me faz lembrar da época de escola?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 611,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era nas férias?",
+    "Pergunta": "Como eu costumava passar as férias quando era criança?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 612,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo nas férias?",
+    "Pergunta": "De que férias da infância eu me lembro melhor?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 613,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer nas férias?",
+    "Pergunta": "Que brincadeira eu mais gostava de fazer nas férias?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 614,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido nas férias?",
+    "Pergunta": "Que lugar eu sempre queria visitar nas férias?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 615,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou nas férias?",
+    "Pergunta": "Que surpresa aconteceu em umas férias marcantes?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 616,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser nas férias?",
+    "Pergunta": "O que eu sonhava fazer durante as férias escolares?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 617,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim nas férias?",
+    "Pergunta": "Com quem eu mais gostava de passar as férias?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 618,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta nas férias?",
+    "Pergunta": "Que regra de casa eu queria deixar de lado nas férias?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 619,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios nas férias?",
+    "Pergunta": "Como eu lidava com o tédio durante as férias?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 620,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época nas férias?",
+    "Pergunta": "Que música ou filme me lembra as férias da adolescência?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 621,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era em festas de aniversário?",
+    "Pergunta": "Como eu gostava de comemorar meus aniversários quando era criança?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 622,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo em festas de aniversário?",
+    "Pergunta": "De qual festa de aniversário eu mais me lembro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 623,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer em festas de aniversário?",
+    "Pergunta": "Que brincadeira eu escolhia numa festa de aniversário?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 624,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido em festas de aniversário?",
+    "Pergunta": "Que tema eu teria escolhido para uma festa da infância?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 625,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou em festas de aniversário?",
+    "Pergunta": "Que surpresa de aniversário ficou na minha memória?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 626,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser em festas de aniversário?",
+    "Pergunta": "Que presente eu mais esperava ganhar quando era criança?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 627,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim em festas de aniversário?",
+    "Pergunta": "Quem eu sempre queria por perto no meu aniversário?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 628,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta em festas de aniversário?",
+    "Pergunta": "Que parte das festas de aniversário eu achava cansativa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 629,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios em festas de aniversário?",
+    "Pergunta": "Como eu reagia quando algo saía errado numa festa?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 630,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época em festas de aniversário?",
+    "Pergunta": "Que música me lembra uma festa de aniversário da infância?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 631,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era com meus amigos?",
+    "Pergunta": "Como eu era com meus amigos na infância?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 632,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo com meus amigos?",
+    "Pergunta": "Que lembrança da infância eu mais gosto de contar sobre meus amigos?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 633,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer com meus amigos?",
+    "Pergunta": "Que brincadeira eu mais fazia com meus amigos?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 634,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido com meus amigos?",
+    "Pergunta": "Eu tinha algum apelido entre meus amigos? Qual?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 635,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou com meus amigos?",
+    "Pergunta": "Que aventura com amigos ficou na minha memória?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 636,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser com meus amigos?",
+    "Pergunta": "Que plano eu imaginava fazer com meus amigos quando crescêssemos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 637,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim com meus amigos?",
+    "Pergunta": "Que tipo de amigo era importante para mim naquela época?",
     "Dificuldade": "Média"
   },
   {
     "Número": 638,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta com meus amigos?",
+    "Pergunta": "Que atitude numa amizade eu achava injusta?",
     "Dificuldade": "Média"
   },
   {
     "Número": 639,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios com meus amigos?",
+    "Pergunta": "Como eu resolvia desentendimentos com meus amigos?",
     "Dificuldade": "Média"
   },
   {
     "Número": 640,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época com meus amigos?",
+    "Pergunta": "Que música ou filme eu associava às minhas amizades de adolescente?",
     "Dificuldade": "Média"
   },
   {
     "Número": 641,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era em casa?",
+    "Pergunta": "Como eu costumava agir em casa quando era criança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 642,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo em casa?",
+    "Pergunta": "Que lembrança feliz eu guardo da casa onde cresci?",
     "Dificuldade": "Média"
   },
   {
     "Número": 643,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer em casa?",
+    "Pergunta": "Qual era minha atividade favorita em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 644,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido em casa?",
+    "Pergunta": "Eu tinha algum apelido em casa? Qual?",
     "Dificuldade": "Média"
   },
   {
     "Número": 645,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou em casa?",
+    "Pergunta": "Que acontecimento em casa me marcou na infância?",
     "Dificuldade": "Média"
   },
   {
     "Número": 646,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser em casa?",
+    "Pergunta": "Que profissão eu dizia querer ter quando crescesse?",
     "Dificuldade": "Média"
   },
   {
     "Número": 647,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim em casa?",
+    "Pergunta": "Quem me fazia sentir acolhido(a) em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 648,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta em casa?",
+    "Pergunta": "Que regra de casa eu tinha dificuldade de aceitar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 649,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios em casa?",
+    "Pergunta": "Como eu reagia quando precisava aprender algo novo em casa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 650,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época em casa?",
+    "Pergunta": "Que música ou programa me lembra a casa da minha infância?",
     "Dificuldade": "Média"
   },
   {
     "Número": 651,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era no meu primeiro amor?",
+    "Pergunta": "Que assunto despertava mais minha curiosidade na infância?",
     "Dificuldade": "Média"
   },
   {
     "Número": 652,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo no meu primeiro amor?",
+    "Pergunta": "Que habilidade eu gostava de mostrar aos outros quando era criança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 653,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer no meu primeiro amor?",
+    "Pergunta": "Qual foi uma pequena conquista da infância que me deixou orgulhoso(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 654,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido no meu primeiro amor?",
+    "Pergunta": "Que objeto eu adorava construir, desenhar ou colecionar?",
     "Dificuldade": "Média"
   },
   {
     "Número": 655,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou no meu primeiro amor?",
+    "Pergunta": "Que pergunta eu fazia tanto que os adultos lembravam dela?",
     "Dificuldade": "Média"
   },
   {
     "Número": 656,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser no meu primeiro amor?",
+    "Pergunta": "Que descoberta sobre o mundo me surpreendeu quando eu era criança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 657,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim no meu primeiro amor?",
+    "Pergunta": "Que atividade nova eu tinha vontade de aprender na adolescência?",
     "Dificuldade": "Média"
   },
   {
     "Número": 658,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta no meu primeiro amor?",
+    "Pergunta": "Que desafio escolar eu consegui superar do meu jeito?",
     "Dificuldade": "Média"
   },
   {
     "Número": 659,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios no meu primeiro amor?",
+    "Pergunta": "Que personagem ou história despertava minha imaginação?",
     "Dificuldade": "Média"
   },
   {
     "Número": 660,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época no meu primeiro amor?",
+    "Pergunta": "Que interesse da infância eu gostaria de retomar hoje?",
     "Dificuldade": "Média"
   },
   {
     "Número": 661,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era quando levava bronca?",
+    "Pergunta": "Como eu reagia quando levava uma bronca na infância?",
     "Dificuldade": "Média"
   },
   {
     "Número": 662,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo quando levava bronca?",
+    "Pergunta": "De qual bronca antiga eu ainda me lembro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 663,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer quando levava bronca?",
+    "Pergunta": "O que eu costumava fazer depois de levar uma bronca?",
     "Dificuldade": "Média"
   },
   {
     "Número": 664,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido quando levava bronca?",
+    "Pergunta": "Eu tentava me explicar ou ficava calado(a) quando era repreendido(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 665,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou quando levava bronca?",
+    "Pergunta": "Que situação me ensinou uma lição depois de uma bronca?",
     "Dificuldade": "Média"
   },
   {
     "Número": 666,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser quando levava bronca?",
+    "Pergunta": "O que eu desejava que os adultos entendessem sobre mim nessas horas?",
     "Dificuldade": "Média"
   },
   {
     "Número": 667,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim quando levava bronca?",
+    "Pergunta": "Quem me ajudava a entender por que eu tinha levado uma bronca?",
     "Dificuldade": "Média"
   },
   {
     "Número": 668,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta quando levava bronca?",
+    "Pergunta": "Que regra eu achava injusta quando era criança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 669,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios quando levava bronca?",
+    "Pergunta": "Como eu tentava reparar um erro depois de ser repreendido(a)?",
     "Dificuldade": "Média"
   },
   {
     "Número": 670,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época quando levava bronca?",
+    "Pergunta": "Que atitude dos adultos fazia uma bronca parecer mais justa para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 671,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era nos fins de semana?",
+    "Pergunta": "Como eu gostava de passar os fins de semana na infância?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 672,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo nos fins de semana?",
+    "Pergunta": "De qual fim de semana da infância eu mais me lembro?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 673,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer nos fins de semana?",
+    "Pergunta": "Que atividade eu esperava a semana inteira para fazer?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 674,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido nos fins de semana?",
+    "Pergunta": "Eu preferia sair ou ficar em casa nos fins de semana?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 675,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou nos fins de semana?",
+    "Pergunta": "Que passeio de fim de semana me marcou?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 676,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser nos fins de semana?",
+    "Pergunta": "O que eu planejava fazer quando chegava o sábado?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 677,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim nos fins de semana?",
+    "Pergunta": "Com quem eu mais gostava de passar os fins de semana?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 678,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta nos fins de semana?",
+    "Pergunta": "Que tarefa eu reclamava de fazer no fim de semana?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 679,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios nos fins de semana?",
+    "Pergunta": "Como eu me distraía quando um passeio era cancelado?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 680,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época nos fins de semana?",
+    "Pergunta": "Que programa de TV me lembra os fins de semana da infância?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 681,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era em uma brincadeira favorita?",
+    "Pergunta": "Qual era minha brincadeira favorita na infância?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 682,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo em uma brincadeira favorita?",
+    "Pergunta": "Que lembrança eu guardo dessa brincadeira?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 683,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer em uma brincadeira favorita?",
+    "Pergunta": "Do que eu mais gostava quando participava dela?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 684,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido em uma brincadeira favorita?",
+    "Pergunta": "Eu costumava inventar personagens durante as brincadeiras?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 685,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou em uma brincadeira favorita?",
+    "Pergunta": "Que brincadeira me fazia perder a noção do tempo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 686,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser em uma brincadeira favorita?",
+    "Pergunta": "Que papel eu escolhia nas brincadeiras em grupo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 687,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim em uma brincadeira favorita?",
+    "Pergunta": "Com quem eu mais gostava de brincar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 688,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta em uma brincadeira favorita?",
+    "Pergunta": "Que regra de uma brincadeira eu sempre queria mudar?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 689,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios em uma brincadeira favorita?",
+    "Pergunta": "Como eu reagia quando perdia um jogo na infância?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 690,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época em uma brincadeira favorita?",
+    "Pergunta": "Que brinquedo ou objeto me lembra minha brincadeira preferida?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 691,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu era ao pensar no futuro?",
+    "Pergunta": "Como eu imaginava minha vida adulta na infância?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 692,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual lembrança eu guardo ao pensar no futuro?",
+    "Pergunta": "Que sonho antigo ainda me faz sorrir?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 693,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu mais gostava de fazer ao pensar no futuro?",
+    "Pergunta": "Que atividade eu praticava para parecer com a pessoa que queria ser?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 694,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que apelido eu poderia ter tido ao pensar no futuro?",
+    "Pergunta": "Eu falava muito sobre meus planos para o futuro?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 695,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Qual situação me marcou ao pensar no futuro?",
+    "Pergunta": "Que experiência mudou meus planos durante a adolescência?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 696,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "O que eu queria ser ao pensar no futuro?",
+    "Pergunta": "O que eu dizia que queria ser quando crescesse?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 697,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Quem era importante para mim ao pensar no futuro?",
+    "Pergunta": "Quem me incentivava a sonhar com o futuro?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 698,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que regra eu achava injusta ao pensar no futuro?",
+    "Pergunta": "Que expectativa sobre meu futuro me incomodava?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 699,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Como eu lidava com desafios ao pensar no futuro?",
+    "Pergunta": "Como eu lidava com a dúvida sobre o que fazer quando crescesse?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 700,
     "Categoria": "Infância e Adolescência",
-    "Pergunta": "Que música, filme ou moda eu associaria àquela época ao pensar no futuro?",
+    "Pergunta": "Que filme ou personagem influenciava meus sonhos de adolescente?",
     "Dificuldade": "Extrema"
   },
   {
@@ -4262,121 +4262,121 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 711,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu costumo agir quando alguém precisa de ajuda?",
+    "Pergunta": "Como eu costumo agir quando alguém próximo precisa de ajuda?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 712,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu mais valorizo quando alguém precisa de ajuda?",
+    "Pergunta": "O que considero mais importante ao ajudar um amigo ou familiar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 713,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que pessoa eu procuraria quando alguém precisa de ajuda?",
+    "Pergunta": "A quem eu pediria conselho para apoiar alguém numa situação difícil?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 714,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como demonstro afeto quando alguém precisa de ajuda?",
+    "Pergunta": "Como demonstro cuidado quando alguém precisa de mim?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 715,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual papel eu assumo quando alguém precisa de ajuda?",
+    "Pergunta": "Eu prefiro ouvir, dar conselhos ou oferecer ajuda prática?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 716,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que me deixa desconfortável quando alguém precisa de ajuda?",
+    "Pergunta": "O que me deixa inseguro(a) ao tentar ajudar?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 717,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que história eu contaria quando alguém precisa de ajuda?",
+    "Pergunta": "Que exemplo de ajuda recebida eu gostaria de repetir?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 718,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu gosto de ser incluído(a) quando alguém precisa de ajuda?",
+    "Pergunta": "Como gosto que me peçam ajuda?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 719,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual limite considero importante quando alguém precisa de ajuda?",
+    "Pergunta": "Que limite preciso respeitar ao cuidar de alguém?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 720,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu espero de quem está perto de mim quando alguém precisa de ajuda?",
+    "Pergunta": "O que espero de pessoas próximas quando sou eu quem precisa de ajuda?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 721,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu costumo agir ao escolher um presente?",
+    "Pergunta": "Como escolho um presente para alguém querido?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 722,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu mais valorizo ao escolher um presente?",
+    "Pergunta": "O que mais valorizo num presente?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 723,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que pessoa eu procuraria ao escolher um presente?",
+    "Pergunta": "De quem eu pediria ideias antes de escolher um presente difícil?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 724,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como demonstro afeto ao escolher um presente?",
+    "Pergunta": "Como mostro carinho ao preparar um presente?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 725,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual papel eu assumo ao escolher um presente?",
+    "Pergunta": "Prefiro comprar, fazer ou planejar uma experiência para presentear?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 726,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que me deixa desconfortável ao escolher um presente?",
+    "Pergunta": "O que me deixa em dúvida ao escolher um presente?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 727,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que história eu contaria ao escolher um presente?",
+    "Pergunta": "Que presente que já dei me deixou orgulhoso(a)?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 728,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu gosto de ser incluído(a) ao escolher um presente?",
+    "Pergunta": "Como gosto de participar de um presente coletivo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 729,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual limite considero importante ao escolher um presente?",
+    "Pergunta": "Quanto eu acho razoável gastar num presente?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 730,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu espero de quem está perto de mim ao escolher um presente?",
+    "Pergunta": "O que espero que alguém perceba num presente escolhido por mim?",
     "Dificuldade": "Fácil"
   },
   {
@@ -4562,61 +4562,61 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 761,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu costumo agir ao apresentar você a alguém?",
+    "Pergunta": "Como eu apresentaria você a uma pessoa importante para mim?",
     "Dificuldade": "Média"
   },
   {
     "Número": 762,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu mais valorizo ao apresentar você a alguém?",
+    "Pergunta": "O que eu gostaria que essa pessoa soubesse sobre nós?",
     "Dificuldade": "Média"
   },
   {
     "Número": 763,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que pessoa eu procuraria ao apresentar você a alguém?",
+    "Pergunta": "A quem eu teria mais vontade de apresentar você?",
     "Dificuldade": "Média"
   },
   {
     "Número": 764,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como demonstro afeto ao apresentar você a alguém?",
+    "Pergunta": "Como eu mostraria meu carinho por você durante essa apresentação?",
     "Dificuldade": "Média"
   },
   {
     "Número": 765,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual papel eu assumo ao apresentar você a alguém?",
+    "Pergunta": "Eu preferiria uma conversa a dois ou um encontro em grupo para isso?",
     "Dificuldade": "Média"
   },
   {
     "Número": 766,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que me deixa desconfortável ao apresentar você a alguém?",
+    "Pergunta": "O que poderia me deixar nervoso(a) nesse momento?",
     "Dificuldade": "Média"
   },
   {
     "Número": 767,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que história eu contaria ao apresentar você a alguém?",
+    "Pergunta": "Que história sobre nós eu provavelmente contaria?",
     "Dificuldade": "Média"
   },
   {
     "Número": 768,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu gosto de ser incluído(a) ao apresentar você a alguém?",
+    "Pergunta": "Como eu gostaria que você participasse da conversa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 769,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual limite considero importante ao apresentar você a alguém?",
+    "Pergunta": "Que assunto eu preferiria não abordar numa primeira apresentação?",
     "Dificuldade": "Média"
   },
   {
     "Número": 770,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu espero de quem está perto de mim ao apresentar você a alguém?",
+    "Pergunta": "O que eu esperaria de alguém próximo ao conhecer você?",
     "Dificuldade": "Média"
   },
   {
@@ -4682,121 +4682,121 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 781,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu costumo agir quando sinto saudade?",
+    "Pergunta": "Como costumo mostrar que sinto saudade de alguém?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 782,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu mais valorizo quando sinto saudade?",
+    "Pergunta": "Do que mais sinto falta quando estou longe de pessoas queridas?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 783,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que pessoa eu procuraria quando sinto saudade?",
+    "Pergunta": "A quem eu procuro quando a saudade aperta?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 784,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como demonstro afeto quando sinto saudade?",
+    "Pergunta": "Que gesto meu mostra carinho mesmo à distância?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 785,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual papel eu assumo quando sinto saudade?",
+    "Pergunta": "Costumo escrever, ligar ou marcar um encontro quando sinto saudade?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 786,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que me deixa desconfortável quando sinto saudade?",
+    "Pergunta": "O que torna uma despedida mais difícil para mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 787,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que história eu contaria quando sinto saudade?",
+    "Pergunta": "Que lembrança boa eu contaria quando sentisse saudade?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 788,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu gosto de ser incluído(a) quando sinto saudade?",
+    "Pergunta": "Como gosto que alguém me inclua na vida dele mesmo de longe?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 789,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual limite considero importante quando sinto saudade?",
+    "Pergunta": "Que distância eu acharia difícil manter por muito tempo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 790,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu espero de quem está perto de mim quando sinto saudade?",
+    "Pergunta": "O que mais gostaria de ouvir de alguém de quem sinto saudade?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 791,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu costumo agir ao pensar em uma amizade verdadeira?",
+    "Pergunta": "O que faz alguém ser um amigo de verdade para mim?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 792,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu mais valorizo ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Que atitude mais valorizo numa amizade?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 793,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que pessoa eu procuraria ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Que amigo me ensinou algo importante sobre confiança?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 794,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como demonstro afeto ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Como costumo demonstrar carinho aos meus amigos?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 795,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual papel eu assumo ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Qual papel eu geralmente assumo num grupo de amigos?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 796,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que me deixa desconfortável ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Que comportamento me deixa desconfortável numa amizade?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 797,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Que história eu contaria ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Que história com um amigo eu gosto de relembrar?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 798,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Como eu gosto de ser incluído(a) ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Como gosto de ser incluído(a) nos planos dos meus amigos?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 799,
     "Categoria": "Família e Amigos",
-    "Pergunta": "Qual limite considero importante ao pensar em uma amizade verdadeira?",
+    "Pergunta": "Que limite considero essencial numa amizade?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 800,
     "Categoria": "Família e Amigos",
-    "Pergunta": "O que eu espero de quem está perto de mim ao pensar em uma amizade verdadeira?",
+    "Pergunta": "O que espero de um amigo nos momentos difíceis?",
     "Dificuldade": "Extrema"
   },
   {
@@ -4982,61 +4982,61 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 831,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que programa eu escolheria em uma viagem de carro?",
+    "Pergunta": "Que brincadeira eu proporia numa viagem de carro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 832,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual tipo de humor me conquista em uma viagem de carro?",
+    "Pergunta": "Que tipo de piada me faria rir durante o trajeto?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 833,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "O que me faz rir de verdade em uma viagem de carro?",
+    "Pergunta": "O que eu faria para deixar uma viagem longa mais divertida?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 834,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que personagem combina comigo em uma viagem de carro?",
+    "Pergunta": "Que personagem fictício eu imitaria para animar o carro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 835,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual jogo eu sugeriria em uma viagem de carro?",
+    "Pergunta": "Que jogo de palavras eu sugeriria na estrada?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 836,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que música colocaria o clima certo em uma viagem de carro?",
+    "Pergunta": "Que música eu colocaria para cantarmos juntos no carro?",
     "Dificuldade": "Média"
   },
   {
     "Número": 837,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que filme ou série eu escolheria em uma viagem de carro?",
+    "Pergunta": "Que história em áudio eu gostaria de ouvir durante a viagem?",
     "Dificuldade": "Média"
   },
   {
     "Número": 838,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Como eu animaria o ambiente em uma viagem de carro?",
+    "Pergunta": "Como eu animaria todo mundo depois de horas na estrada?",
     "Dificuldade": "Média"
   },
   {
     "Número": 839,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que piada eu provavelmente faria em uma viagem de carro?",
+    "Pergunta": "Que comentário engraçado eu provavelmente faria ao errar o caminho?",
     "Dificuldade": "Média"
   },
   {
     "Número": 840,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual lembrança divertida eu criaria em uma viagem de carro?",
+    "Pergunta": "Que momento de uma viagem de carro eu gostaria de guardar na memória?",
     "Dificuldade": "Média"
   },
   {
@@ -5222,181 +5222,181 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 871,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que programa eu escolheria ao escolher algo para assistir?",
+    "Pergunta": "Que tipo de história eu escolheria para assistir com você?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 872,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual tipo de humor me conquista ao escolher algo para assistir?",
+    "Pergunta": "Qual tipo de comédia eu gosto de ver na tela?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 873,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "O que me faz rir de verdade ao escolher algo para assistir?",
+    "Pergunta": "Que cena engraçada eu provavelmente reveria várias vezes?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 874,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que personagem combina comigo ao escolher algo para assistir?",
+    "Pergunta": "Que personagem de filme ou série se parece comigo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 875,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual jogo eu sugeriria ao escolher algo para assistir?",
+    "Pergunta": "Eu preferiria ver um filme ou jogar videogame nessa noite?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 876,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que música colocaria o clima certo ao escolher algo para assistir?",
+    "Pergunta": "Que trilha sonora de filme eu colocaria depois da sessão?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 877,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que filme ou série eu escolheria ao escolher algo para assistir?",
+    "Pergunta": "Que filme ou série eu tenho vontade de começar com você?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 878,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Como eu animaria o ambiente ao escolher algo para assistir?",
+    "Pergunta": "Como eu escolheria algo que nós dois gostássemos de assistir?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 879,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que piada eu provavelmente faria ao escolher algo para assistir?",
+    "Pergunta": "Que comentário eu costumo fazer enquanto assisto a uma comédia?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 880,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual lembrança divertida eu criaria ao escolher algo para assistir?",
+    "Pergunta": "Que cena divertida eu gostaria de comentar com você depois?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 881,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que programa eu escolheria em uma competição amigável?",
+    "Pergunta": "Que jogo eu escolheria para uma competição amigável?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 882,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual tipo de humor me conquista em uma competição amigável?",
+    "Pergunta": "Eu gosto mais de brincadeiras criativas ou de jogos de estratégia?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 883,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "O que me faz rir de verdade em uma competição amigável?",
+    "Pergunta": "O que me faz rir quando estou perdendo um jogo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 884,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que personagem combina comigo em uma competição amigável?",
+    "Pergunta": "Que personagem eu escolheria para representar meu time?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 885,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual jogo eu sugeriria em uma competição amigável?",
+    "Pergunta": "Que regra divertida eu acrescentaria à competição?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 886,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que música colocaria o clima certo em uma competição amigável?",
+    "Pergunta": "Que música eu colocaria para animar uma disputa de brincadeira?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 887,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que filme ou série eu escolheria em uma competição amigável?",
+    "Pergunta": "Que programa de competição eu gostaria de assistir com você?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 888,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Como eu animaria o ambiente em uma competição amigável?",
+    "Pergunta": "Como eu animaria alguém do meu time?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 889,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que piada eu provavelmente faria em uma competição amigável?",
+    "Pergunta": "Que provocação leve eu faria durante o jogo?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 890,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual lembrança divertida eu criaria em uma competição amigável?",
+    "Pergunta": "Que lembrança engraçada eu gostaria que uma competição nossa criasse?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 891,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que programa eu escolheria ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que brincadeira nova eu inventaria para fazermos juntos?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 892,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual tipo de humor me conquista ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que tipo de humor combina com nossas brincadeiras?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 893,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "O que me faz rir de verdade ao criar uma brincadeira entre nós?",
+    "Pergunta": "O que você faz que me faz rir sem esforço?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 894,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que personagem combina comigo ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que personagem fictício poderia inspirar uma brincadeira nossa?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 895,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual jogo eu sugeriria ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que regra eu criaria para tornar a brincadeira mais divertida?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 896,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que música colocaria o clima certo ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que música eu usaria como trilha sonora de um jogo inventado por nós?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 897,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que filme ou série eu escolheria ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que cena de filme poderíamos recriar só pela diversão?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 898,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Como eu animaria o ambiente ao criar uma brincadeira entre nós?",
+    "Pergunta": "Como eu te convidaria para brincar num dia sério demais?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 899,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Que piada eu provavelmente faria ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que piada interna nossa eu transformaria em jogo?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 900,
     "Categoria": "Diversão, Humor e Entretenimento",
-    "Pergunta": "Qual lembrança divertida eu criaria ao criar uma brincadeira entre nós?",
+    "Pergunta": "Que momento engraçado eu gostaria de criar com você?",
     "Dificuldade": "Extrema"
   },
   {
@@ -5438,7 +5438,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 907,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa quando penso no sentido da vida?",
+    "Pergunta": "O que significa viver bem para mim?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5456,7 +5456,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 910,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer quando penso no sentido da vida?",
+    "Pergunta": "Como nossa relação me ajuda a pensar no sentido da vida?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5498,13 +5498,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 917,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa diante de uma escolha difícil?",
+    "Pergunta": "Como saberia se uma escolha difícil combina com a vida que desejo?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 918,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar diante de uma escolha difícil?",
+    "Pergunta": "Que efeito da minha escolha eu gostaria de deixar para outras pessoas?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5516,7 +5516,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 920,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer diante de uma escolha difícil?",
+    "Pergunta": "Como poderíamos nos apoiar quando precisamos tomar uma decisão difícil?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5558,13 +5558,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 927,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa ao imaginar o futuro?",
+    "Pergunta": "Que tipo de vida eu imagino para meu futuro?",
     "Dificuldade": "Fácil"
   },
   {
     "Número": 928,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar ao imaginar o futuro?",
+    "Pergunta": "Que contribuição eu gostaria de deixar para o futuro?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5576,7 +5576,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 930,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer ao imaginar o futuro?",
+    "Pergunta": "Como gostaria que nossa relação crescesse nos próximos anos?",
     "Dificuldade": "Fácil"
   },
   {
@@ -5618,13 +5618,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 937,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa quando erro?",
+    "Pergunta": "Como posso aprender com um erro sem deixar que ele me defina?",
     "Dificuldade": "Média"
   },
   {
     "Número": 938,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar quando erro?",
+    "Pergunta": "Que reparação eu tentaria fazer depois de um erro meu?",
     "Dificuldade": "Média"
   },
   {
@@ -5636,7 +5636,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 940,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer quando erro?",
+    "Pergunta": "Como podemos conversar sobre nossos erros sem nos atacar?",
     "Dificuldade": "Média"
   },
   {
@@ -5678,13 +5678,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 947,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa ao olhar para o passado?",
+    "Pergunta": "Que parte do meu passado me ajuda a reconhecer uma vida boa?",
     "Dificuldade": "Média"
   },
   {
     "Número": 948,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar ao olhar para o passado?",
+    "Pergunta": "Que influência positiva do meu passado eu gostaria de transmitir?",
     "Dificuldade": "Média"
   },
   {
@@ -5696,7 +5696,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 950,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer ao olhar para o passado?",
+    "Pergunta": "Que aprendizado do passado pode fortalecer nossa relação?",
     "Dificuldade": "Média"
   },
   {
@@ -5738,13 +5738,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 957,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa em um período de mudança?",
+    "Pergunta": "O que me ajuda a manter uma vida boa durante uma mudança?",
     "Dificuldade": "Média"
   },
   {
     "Número": 958,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar em um período de mudança?",
+    "Pergunta": "Que valor meu eu gostaria de preservar mesmo quando tudo muda?",
     "Dificuldade": "Média"
   },
   {
@@ -5756,7 +5756,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 960,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer em um período de mudança?",
+    "Pergunta": "Como podemos nos apoiar numa fase de mudança?",
     "Dificuldade": "Média"
   },
   {
@@ -5798,13 +5798,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 967,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa quando sinto medo?",
+    "Pergunta": "O que ainda consigo valorizar na vida quando sinto medo?",
     "Dificuldade": "Média"
   },
   {
     "Número": 968,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar quando sinto medo?",
+    "Pergunta": "Que exemplo de coragem eu gostaria de deixar quando enfrento um medo?",
     "Dificuldade": "Média"
   },
   {
@@ -5816,7 +5816,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 970,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer quando sinto medo?",
+    "Pergunta": "Como podemos falar dos nossos medos com confiança?",
     "Dificuldade": "Média"
   },
   {
@@ -5858,13 +5858,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 977,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa ao pensar em felicidade?",
+    "Pergunta": "O que faz uma vida parecer boa para mim, além de momentos felizes?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 978,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar ao pensar em felicidade?",
+    "Pergunta": "Que alegria eu gostaria de compartilhar com outras pessoas?",
     "Dificuldade": "Difícil"
   },
   {
@@ -5876,7 +5876,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 980,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer ao pensar em felicidade?",
+    "Pergunta": "Como podemos reconhecer a felicidade nas coisas simples da relação?",
     "Dificuldade": "Difícil"
   },
   {
@@ -5918,13 +5918,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 987,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa diante de uma perda?",
+    "Pergunta": "Que cuidado torna um período de perda mais suportável para mim?",
     "Dificuldade": "Difícil"
   },
   {
     "Número": 988,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar diante de uma perda?",
+    "Pergunta": "Que lembrança de alguém ou de algo perdido eu gostaria de preservar?",
     "Dificuldade": "Difícil"
   },
   {
@@ -5936,7 +5936,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 990,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer diante de uma perda?",
+    "Pergunta": "Como podemos cuidar um do outro diante de uma perda?",
     "Dificuldade": "Difícil"
   },
   {
@@ -5978,13 +5978,13 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 997,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como eu definiria uma vida boa quando quero viver com mais propósito?",
+    "Pergunta": "Que escolhas diárias dariam mais sentido à minha vida?",
     "Dificuldade": "Extrema"
   },
   {
     "Número": 998,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Que marca eu quero deixar quando quero viver com mais propósito?",
+    "Pergunta": "Que diferença positiva eu gostaria de fazer na vida de alguém?",
     "Dificuldade": "Extrema"
   },
   {
@@ -5996,7 +5996,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1000,
     "Categoria": "Reflexões Profundas e Filosóficas",
-    "Pergunta": "Como nosso relacionamento pode crescer quando quero viver com mais propósito?",
+    "Pergunta": "Como nossa relação pode apoiar os propósitos de cada um?",
     "Dificuldade": "Extrema"
   },
   {
@@ -6212,7 +6212,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1036,
     "Categoria": "Universo Geek, Super-heróis e Quadrinhos",
-    "Pergunta": "Que personagem eu convidaria para jantar com nós dois?",
+    "Pergunta": "Que personagem dos quadrinhos eu convidaria para jantar com a gente?",
     "Dificuldade": "Fácil"
   },
   {
@@ -6302,7 +6302,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1051,
     "Categoria": "Universo Geek, Super-heróis e Quadrinhos",
-    "Pergunta": "Se eu fosse um super-herói original, criado do zero, como seriam meu visual, meus poderes e equipamentos? Que atitudes me tornariam diferente dos outros heróis?",
+    "Pergunta": "Se eu fosse um super-herói original, como seriam meu visual, meus poderes e meus equipamentos? Que atitudes me tornariam único(a)?",
     "Dificuldade": "Média"
   },
   {
@@ -6404,7 +6404,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1068,
     "Categoria": "Viagens e aventuras",
-    "Pergunta": "Qual lembrança eu compraria para alguém querido durante uma viagem?",
+    "Pergunta": "Que lembrancinha eu compraria para alguém querido durante uma viagem?",
     "Dificuldade": "Fácil"
   },
   {
@@ -6650,7 +6650,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1109,
     "Categoria": "Cozinha a dois",
-    "Pergunta": "Que prato eu toparia provar sem saber seus ingredientes?",
+    "Pergunta": "Que prato desconhecido eu teria curiosidade de provar?",
     "Dificuldade": "Fácil"
   },
   {
@@ -7214,8 +7214,8 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1203,
     "Categoria": "Vida digital",
-    "Pergunta": "Qual limite de privacidade eu gostaria de combinar antes de compartilhar senhas?",
-    "Dificuldade": "Extrema"
+    "Pergunta": "Que combinado eu gostaria de fazer sobre o uso do celular durante nosso tempo juntos?",
+    "Dificuldade": "Média"
   },
   {
     "Número": 1204,
@@ -8198,7 +8198,7 @@ window.CASAL_QUESTIONS = [
   {
     "Número": 1367,
     "Categoria": "Bem-estar e autocuidado",
-    "Pergunta": "O que você poderia fazer para me ajudar sem assumir a responsabilidade pelo meu bem-estar?",
+    "Pergunta": "Como você poderia me apoiar sem sentir que precisa resolver tudo por mim?",
     "Dificuldade": "Extrema"
   },
   {
