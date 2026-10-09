@@ -4,13 +4,13 @@ Jogo de casal com 1.051 perguntas em 11 categorias: as 1.000 originais e 51 nova
 
 ## Abrir
 
-Abra `index.html` no navegador. Para garantir que o progresso continue salvo de forma estável, execute um servidor local nesta pasta e abra o endereço mostrado:
+O aplicativo está na raiz do repositório. Para testar localmente, abra um terminal em `E:\GitHub\App-Casal`, execute um servidor nesta pasta e acesse o endereço abaixo:
 
 ```powershell
 py -m http.server 4173
 ```
 
-Depois acesse `http://localhost:4173`. Não é preciso instalar pacotes.
+Depois acesse `http://localhost:4173/`. Não é preciso instalar pacotes. Na publicação pelo GitHub Pages, use a raiz do repositório como origem; os arquivos do aplicativo usam caminhos relativos.
 
 ## Instalar como aplicativo
 
