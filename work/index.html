@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#fff7f4" />
+    <meta name="description" content="Jogo de casal com 1.051 perguntas únicas para conversar e se conhecer melhor." />
+    <title>Entre Nós — Jogo de Casal</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./questions-data.js"></script>
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div class="brand"><span aria-hidden="true">♥</span> Entre Nós</div>
+        <button id="reset" class="text-button" type="button">Recomeçar</button>
+      </header>
+
+      <section class="intro" aria-labelledby="title">
+        <p class="eyebrow">JOGO DE CASAL</p>
+        <h1 id="title">Uma pergunta.<br /><em>Mil descobertas.</em></h1>
+        <p>Toquem no botão e descubram novas histórias, desejos e detalhes um do outro.</p>
+      </section>
+
+      <section id="card" class="card" aria-live="polite" aria-atomic="true">
+        <div class="card-top">
+          <span id="category" class="pill">Prontos para começar?</span>
+          <span id="difficulty" class="difficulty"></span>
+        </div>
+        <p id="number" class="question-number">1.051 perguntas para vocês</p>
+        <h2 id="question">Comecem uma conversa que só vocês dois podem ter.</h2>
+      </section>
+
+      <div class="action">
+        <button id="draw" class="draw-button" type="button">Fazer uma pergunta <span aria-hidden="true">♥</span></button>
+        <p id="remaining">1.051 perguntas disponíveis</p>
+      </div>
+
+      <section class="progress" aria-label="Progresso do jogo">
+        <div class="progress-label"><span>Progresso</span><strong id="count">0 / 1.051</strong></div>
+        <div id="progressbar" class="track" role="progressbar" aria-valuemin="0" aria-valuemax="1051" aria-valuenow="0" aria-label="Perguntas sorteadas"><div id="fill" class="fill"></div></div>
+      </section>
+      <footer>Não há respostas certas. Só novas formas de se conhecer.</footer>
+    </main>
+  </body>
+</html>

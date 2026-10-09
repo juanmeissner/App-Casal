@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Entre Nós">
+  <rect width="512" height="512" rx="116" fill="#e94970"/>
+  <rect x="82" y="106" width="348" height="270" rx="72" fill="#fff8f4"/>
+  <path d="M164 360 132 424 231 360Z" fill="#fff8f4"/>
+  <path d="M256 329C239 315 165 273 165 219c0-36 27-60 60-60 18 0 34 9 43 23 10-14 26-23 44-23 34 0 60 24 60 60 0 54-74 96-116 110Z" fill="#e94970"/>
+</svg>
